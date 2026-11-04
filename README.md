@@ -1,4 +1,4 @@
-# ORsearcher
+# ORsearcher: A Specialized Tool for Odorant Receptor Prediction
 
 ```text
    ___  ____                      _
