@@ -10,10 +10,7 @@
 
 **Version 2.3.0** · Insect odorant receptor annotation from a genome assembly
 
-ORsearcher searches for candidate odorant receptor (OR) loci, reconstructs
-coding models and compares OR, gustatory receptor (GR) and other protein
-evidence. It exports complete models, partial models and pseudogene candidates
-with the evidence behind each classification.
+ORsearcher identifies candidate odorant receptor (OR) loci, reconstructs their protein-coding gene models, and evaluates supporting evidence from OR, gustatory receptor (GR), and other protein sequences. The tool outputs complete gene models, partial gene models, and candidate pseudogenes, together with the evidence supporting each classification. ORsearcher includes a built-in reference database containing 3,309 OR protein sequences from 46 species, along with corresponding GR and background protein databases, allowing users to initiate searches using only a target genome. When the built-in OR reference sequences are evolutionarily distant from the target species, users can supplement the reference database with additional sequences through configurable parameters to improve search performance.
 
 [Installation](#installation) · [Quick start](#quick-start) · [Outputs](#outputs) ·
 [Reference file formats](#reference-file-formats) · [Parameters](#parameters)
