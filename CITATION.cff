@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this software version and the source publications of the reference data you use."
+type: software
+title: "ORsearcher: genome-based insect OR discovery and model polishing"
+version: 2.3.0
+repository-code: "https://github.com/veryxing565/ORsearcher"
+authors:
+  - name: "ORsearcher contributors"
+license: MIT
+abstract: >-
+  ORsearcher combines genome-wide protein-guided candidate discovery,
+  structural review, OR/GR evidence competition, coding-overlap consolidation
+  and bounded local reconstruction. Predictions are computational gene models,
+  not experimental confirmation of receptor identity or function.
+keywords:
+  - insect
+  - olfactory receptor
+  - genome annotation
+  - bioinformatics

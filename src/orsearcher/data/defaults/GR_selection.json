@@ -1,0 +1,2062 @@
+[
+  {
+    "source_id": "AgamGR22",
+    "output_header": "mitchell2026|AgamGR22 family=GR source=Mitchell_2026 original_id=AgamGR22 exact_sources=mitchell2026",
+    "sequence_sha256": "1c5e59413357b31d9495a5674723d3ff35b47e1e0a8d84ddeb2d789d551e0215"
+  },
+  {
+    "source_id": "AgamGR23",
+    "output_header": "mitchell2026|AgamGR23 family=GR source=Mitchell_2026 original_id=AgamGR23 exact_sources=mitchell2026",
+    "sequence_sha256": "ca5bc28675d306bd761a8e0a6ad1a1aea8ad0f712400b3547951ec68172dacf1"
+  },
+  {
+    "source_id": "AglaGR13",
+    "output_header": "mitchell2026|AglaGR13 family=GR source=Mitchell_2026 original_id=AglaGR13 exact_sources=mitchell2026",
+    "sequence_sha256": "7ce7ff2692d7dfd23dee00a73adb42f94afb190917597c41c22673e9f5d2046f"
+  },
+  {
+    "source_id": "AglaGR144",
+    "output_header": "mitchell2026|AglaGR144 family=GR source=Mitchell_2026 original_id=AglaGR144 exact_sources=mitchell2026",
+    "sequence_sha256": "ffc7565fea95705043c4d55af7a02ec33f4e60af3e54d446f048bdd34afeddf5"
+  },
+  {
+    "source_id": "AglaGR2",
+    "output_header": "mitchell2026|AglaGR2 family=GR source=Mitchell_2026 original_id=AglaGR2 exact_sources=mitchell2026",
+    "sequence_sha256": "edcdd040e52bdc94056937f891906680a7267d25b9d491d3341f832c9a1dac17"
+  },
+  {
+    "source_id": "AglaGR3_INT",
+    "output_header": "mitchell2026|AglaGR3_INT family=GR source=Mitchell_2026 original_id=AglaGR3_INT exact_sources=mitchell2026",
+    "sequence_sha256": "b1197e01951acaf3a7256251d67d53358f5a2a83077cee2d7594072217af8ac8"
+  },
+  {
+    "source_id": "AglaGR4",
+    "output_header": "mitchell2026|AglaGR4 family=GR source=Mitchell_2026 original_id=AglaGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "98946e126e508ad347f9024ae1dc9e2b3dd616f7eca3e4f3bb4e68d00a5a33f0"
+  },
+  {
+    "source_id": "AglaGR6",
+    "output_header": "mitchell2026|AglaGR6 family=GR source=Mitchell_2026 original_id=AglaGR6 exact_sources=mitchell2026",
+    "sequence_sha256": "d4c7b61166f702980ae587aff34a93fe4cac012e2b6ed8ba9b17c7189097c356"
+  },
+  {
+    "source_id": "AglaGR7",
+    "output_header": "mitchell2026|AglaGR7 family=GR source=Mitchell_2026 original_id=AglaGR7 exact_sources=mitchell2026",
+    "sequence_sha256": "ec84e5d7ead61341db82b7e11e25c243a39c5c23901e4571c14e6e522a2c66db"
+  },
+  {
+    "source_id": "AglaGR8",
+    "output_header": "mitchell2026|AglaGR8 family=GR source=Mitchell_2026 original_id=AglaGR8 exact_sources=mitchell2026",
+    "sequence_sha256": "13029d08396cc1b0f805a0665cc7877c9a080729878539f21fbae72cd3c442b4"
+  },
+  {
+    "source_id": "AglaGR9",
+    "output_header": "mitchell2026|AglaGR9 family=GR source=Mitchell_2026 original_id=AglaGR9 exact_sources=mitchell2026",
+    "sequence_sha256": "edbc607bb44dfb606874e1801fd0baa39b5a9e8eacea017f6f9af398a3748058"
+  },
+  {
+    "source_id": "AmelGR10",
+    "output_header": "mitchell2026|AmelGR10 family=GR source=Mitchell_2026 original_id=AmelGR10 exact_sources=mitchell2026",
+    "sequence_sha256": "534be6323715f878dd8e244be9b6bc515cf52fddc26f1f6436da14f057677a5d"
+  },
+  {
+    "source_id": "AmelGR2",
+    "output_header": "mitchell2026|AmelGR2 family=GR source=Mitchell_2026 original_id=AmelGR2 exact_sources=mitchell2026",
+    "sequence_sha256": "9c521a913cb96c78a70ee33bd0cbf2d27caeb8cbcae1bb386f533308d708b971"
+  },
+  {
+    "source_id": "AmelGR3",
+    "output_header": "mitchell2026|AmelGR3 family=GR source=Mitchell_2026 original_id=AmelGR3 exact_sources=mitchell2026",
+    "sequence_sha256": "ed919618b74de96d617f5c14be732552882b007e866a5ea8bf455f4f81f8d375"
+  },
+  {
+    "source_id": "AmelGR4",
+    "output_header": "mitchell2026|AmelGR4 family=GR source=Mitchell_2026 original_id=AmelGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "6b3990ff978d36b7971cca9c76fd7ef2d673f9866005d44b76df02f45b7d09c3"
+  },
+  {
+    "source_id": "AmelGR6",
+    "output_header": "mitchell2026|AmelGR6 family=GR source=Mitchell_2026 original_id=AmelGR6 exact_sources=mitchell2026",
+    "sequence_sha256": "56440f0c428e1a0e7298b2fb47c593eef8c9d247d7fd5478515255537d09ed60"
+  },
+  {
+    "source_id": "AmelGR7",
+    "output_header": "mitchell2026|AmelGR7 family=GR source=Mitchell_2026 original_id=AmelGR7 exact_sources=mitchell2026",
+    "sequence_sha256": "1f8eb9227b75718e28b961151a2a293dc2a6a137cdcc52cdf74cd3fe6ea041f2"
+  },
+  {
+    "source_id": "AmelGR8",
+    "output_header": "mitchell2026|AmelGR8 family=GR source=Mitchell_2026 original_id=AmelGR8 exact_sources=mitchell2026",
+    "sequence_sha256": "3d027d0c0eae4dff118135e6091c5132ccf17dff51b92cef9d89fe0729250355"
+  },
+  {
+    "source_id": "AmelGR9",
+    "output_header": "mitchell2026|AmelGR9 family=GR source=Mitchell_2026 original_id=AmelGR9 exact_sources=mitchell2026",
+    "sequence_sha256": "b9d26fa6f10d38ed40be7930bbf4d9adce741cc97dd9de12bcbfe6cdaec882da"
+  },
+  {
+    "source_id": "AmelGRY",
+    "output_header": "mitchell2026|AmelGRY family=GR source=Mitchell_2026 original_id=AmelGRY exact_sources=mitchell2026",
+    "sequence_sha256": "a4b9f9c5934aca047410231cf284623743e72a9b848bdf5cb3be4624c7d4d2bc"
+  },
+  {
+    "source_id": "ApisGR79_NEW",
+    "output_header": "mitchell2026|ApisGR79_NEW family=GR source=Mitchell_2026 original_id=ApisGR79_NEW exact_sources=mitchell2026",
+    "sequence_sha256": "d3eb55b91cc3f0e1e7b539f5846cbc80131a337c81493a054439fa441ba1f194"
+  },
+  {
+    "source_id": "BrisGR1",
+    "output_header": "mitchell2026|BrisGR1 family=GR source=Mitchell_2026 original_id=BrisGR1 exact_sources=mitchell2026",
+    "sequence_sha256": "c89494471f04e72520f73fb5bc45801303e71f29bb2d4728fc789daf098e0052"
+  },
+  {
+    "source_id": "BrisGR2",
+    "output_header": "mitchell2026|BrisGR2 family=GR source=Mitchell_2026 original_id=BrisGR2 exact_sources=mitchell2026",
+    "sequence_sha256": "095cb305be347b68b0c194da51211e0d6a59235154d0ddba443220e66fe12c13"
+  },
+  {
+    "source_id": "BrisGR5",
+    "output_header": "mitchell2026|BrisGR5 family=GR source=Mitchell_2026 original_id=BrisGR5 exact_sources=mitchell2026",
+    "sequence_sha256": "981fe23b153ed4d108e04be466b26f8a65242e9795f6851b0fbf550d0a13c6f5"
+  },
+  {
+    "source_id": "BtabGR1_NTE",
+    "output_header": "mitchell2026|BtabGR1_NTE family=GR source=Mitchell_2026 original_id=BtabGR1_NTE exact_sources=mitchell2026",
+    "sequence_sha256": "6194c074fa3056e53489564210dbca037fbaa7fb80d25cb3c5ce59bf4b808edb"
+  },
+  {
+    "source_id": "BtabGR2",
+    "output_header": "mitchell2026|BtabGR2 family=GR source=Mitchell_2026 original_id=BtabGR2 exact_sources=mitchell2026",
+    "sequence_sha256": "0443f5629b55191eb31004eeae87b43419811d8ceed57cbdddeb3ee4f162a42f"
+  },
+  {
+    "source_id": "BtabGR3",
+    "output_header": "mitchell2026|BtabGR3 family=GR source=Mitchell_2026 original_id=BtabGR3 exact_sources=mitchell2026",
+    "sequence_sha256": "45c731f254fae1331865a9797dbe05cbe1fc99eea777a704d2391d0bf39a572e"
+  },
+  {
+    "source_id": "CaquGR1",
+    "output_header": "mitchell2026|CaquGR1 family=GR source=Mitchell_2026 original_id=CaquGR1 exact_sources=mitchell2026",
+    "sequence_sha256": "a50468cd6c4d26ea4d2122a9dbc9aa657f8beb277e47a257a2766d5aa8b32edd"
+  },
+  {
+    "source_id": "CaquGR10",
+    "output_header": "mitchell2026|CaquGR10 family=GR source=Mitchell_2026 original_id=CaquGR10 exact_sources=mitchell2026",
+    "sequence_sha256": "93a1c0c32b2638366d59933a31d2e998b9450a4c2807b90410fb51232febaf47"
+  },
+  {
+    "source_id": "CaquGR11",
+    "output_header": "mitchell2026|CaquGR11 family=GR source=Mitchell_2026 original_id=CaquGR11 exact_sources=mitchell2026",
+    "sequence_sha256": "20019827bdb8591d40a7fac6b5d170c02e1dccde3deca011445e04beb8e1bbbe"
+  },
+  {
+    "source_id": "CaquGR12",
+    "output_header": "mitchell2026|CaquGR12 family=GR source=Mitchell_2026 original_id=CaquGR12 exact_sources=mitchell2026",
+    "sequence_sha256": "146eca696978f5f053a7c5e85b452f239a2e72b14c67034ecf7cf81741f601cd"
+  },
+  {
+    "source_id": "CaquGR15",
+    "output_header": "mitchell2026|CaquGR15 family=GR source=Mitchell_2026 original_id=CaquGR15 exact_sources=mitchell2026",
+    "sequence_sha256": "2719a8903b408745957477cee82d767c38447a488696ff9537c4caa2b527e57d"
+  },
+  {
+    "source_id": "CaquGR16",
+    "output_header": "mitchell2026|CaquGR16 family=GR source=Mitchell_2026 original_id=CaquGR16 exact_sources=mitchell2026",
+    "sequence_sha256": "c54fb441743e0954bcb7c0f336f7984c7cfb4ee40c2de969c05681f322c4d444"
+  },
+  {
+    "source_id": "CaquGR17",
+    "output_header": "mitchell2026|CaquGR17 family=GR source=Mitchell_2026 original_id=CaquGR17 exact_sources=mitchell2026",
+    "sequence_sha256": "db6c0ee9c827a073fd2b08f126f6689b61b87bea168b81d08e4da63d0fa41a50"
+  },
+  {
+    "source_id": "CaquGR18",
+    "output_header": "mitchell2026|CaquGR18 family=GR source=Mitchell_2026 original_id=CaquGR18 exact_sources=mitchell2026",
+    "sequence_sha256": "068a7b94b67039afe7521200cc8b28c06d73ade0904b693ea5b4246a4cdf7635"
+  },
+  {
+    "source_id": "CaquGR2",
+    "output_header": "mitchell2026|CaquGR2 family=GR source=Mitchell_2026 original_id=CaquGR2 exact_sources=mitchell2026",
+    "sequence_sha256": "f7387c5df36f4b15b57cf9286404c7d527c701221fd806ee5cb8687ab4b28d53"
+  },
+  {
+    "source_id": "CaquGR206",
+    "output_header": "mitchell2026|CaquGR206 family=GR source=Mitchell_2026 original_id=CaquGR206 exact_sources=mitchell2026",
+    "sequence_sha256": "8aa7daaa1154e5c4c2048c767acc5c0720395d235840a4808cc24bcbbb4eb0de"
+  },
+  {
+    "source_id": "CaquGR229",
+    "output_header": "mitchell2026|CaquGR229 family=GR source=Mitchell_2026 original_id=CaquGR229 exact_sources=mitchell2026",
+    "sequence_sha256": "0802fc6b84e872ead0896cafb104c9c4f9d96fc7c414d37d6b18eaf66906bdd7"
+  },
+  {
+    "source_id": "CaquGR23",
+    "output_header": "mitchell2026|CaquGR23 family=GR source=Mitchell_2026 original_id=CaquGR23 exact_sources=mitchell2026",
+    "sequence_sha256": "e2842cb26da9233d1dbcd46d1516210320fe050252234a0544de0a484759d4a6"
+  },
+  {
+    "source_id": "CaquGR250",
+    "output_header": "mitchell2026|CaquGR250 family=GR source=Mitchell_2026 original_id=CaquGR250 exact_sources=mitchell2026",
+    "sequence_sha256": "fe3dffe0935e27c07eb6d62fd836fd5f533af42fe42bbcc73b5042c292cd9056"
+  },
+  {
+    "source_id": "CaquGR252",
+    "output_header": "mitchell2026|CaquGR252 family=GR source=Mitchell_2026 original_id=CaquGR252 exact_sources=mitchell2026",
+    "sequence_sha256": "561e1d4a3aeff4931bc96ce1bd0d008b554494a3968f013b9b5040e320a25f84"
+  },
+  {
+    "source_id": "CaquGR266",
+    "output_header": "mitchell2026|CaquGR266 family=GR source=Mitchell_2026 original_id=CaquGR266 exact_sources=mitchell2026",
+    "sequence_sha256": "5faf1f4d0b8dc923e7fb3505068db3756a2dbafcbad63922aa28520d97a83e60"
+  },
+  {
+    "source_id": "CaquGR27",
+    "output_header": "mitchell2026|CaquGR27 family=GR source=Mitchell_2026 original_id=CaquGR27 exact_sources=mitchell2026",
+    "sequence_sha256": "b9f95f5ba61bc007c6ad074afe16efffd6a25fca8744307d79beea64dfe62dcd"
+  },
+  {
+    "source_id": "CaquGR277",
+    "output_header": "mitchell2026|CaquGR277 family=GR source=Mitchell_2026 original_id=CaquGR277 exact_sources=mitchell2026",
+    "sequence_sha256": "e21ea3e490ef009a792a7d802ee7e56a47d475ad7d22d80c41eb61069ac017bb"
+  },
+  {
+    "source_id": "CaquGR28",
+    "output_header": "mitchell2026|CaquGR28 family=GR source=Mitchell_2026 original_id=CaquGR28 exact_sources=mitchell2026",
+    "sequence_sha256": "5969b5d16833f0ee48275fe7720daea9e333b08c5db5623f0cbecdc413052f16"
+  },
+  {
+    "source_id": "CaquGR289",
+    "output_header": "mitchell2026|CaquGR289 family=GR source=Mitchell_2026 original_id=CaquGR289 exact_sources=mitchell2026",
+    "sequence_sha256": "f1f46d7effa3e14ea5b6dcaf32464a82b74b3eab359304a8bd152da38401b43c"
+  },
+  {
+    "source_id": "CaquGR29",
+    "output_header": "mitchell2026|CaquGR29 family=GR source=Mitchell_2026 original_id=CaquGR29 exact_sources=mitchell2026",
+    "sequence_sha256": "c5da4f72537fca27f2514f20f6e4ffd3fae72c50f0f660e1432f8fc39a32f1a3"
+  },
+  {
+    "source_id": "CaquGR295",
+    "output_header": "mitchell2026|CaquGR295 family=GR source=Mitchell_2026 original_id=CaquGR295 exact_sources=mitchell2026",
+    "sequence_sha256": "47229b3ee615231e74bea75daa5583bd80c48c0c929e5478f387c12068765a91"
+  },
+  {
+    "source_id": "CaquGR3",
+    "output_header": "mitchell2026|CaquGR3 family=GR source=Mitchell_2026 original_id=CaquGR3 exact_sources=mitchell2026",
+    "sequence_sha256": "656f5167dc7e06ba7f80e4e509784dfb64580ca42b5fffef6b3b860add206048"
+  },
+  {
+    "source_id": "CaquGR31",
+    "output_header": "mitchell2026|CaquGR31 family=GR source=Mitchell_2026 original_id=CaquGR31 exact_sources=mitchell2026",
+    "sequence_sha256": "03b701eae18be454d854763b4e9c6e0f8aed9b5dcf722f2c976dca41256213c4"
+  },
+  {
+    "source_id": "CaquGR310",
+    "output_header": "mitchell2026|CaquGR310 family=GR source=Mitchell_2026 original_id=CaquGR310 exact_sources=mitchell2026",
+    "sequence_sha256": "73bbc3251bb3dbf52db91e6d2a75e670373cdc12fffbb4bf5a606725f09804c9"
+  },
+  {
+    "source_id": "CaquGR317",
+    "output_header": "mitchell2026|CaquGR317 family=GR source=Mitchell_2026 original_id=CaquGR317 exact_sources=mitchell2026",
+    "sequence_sha256": "49aa53ae81bc4453efa8be48cc63d18cb48ea70630b10ffb3f7c92f15ec665f8"
+  },
+  {
+    "source_id": "CaquGR324",
+    "output_header": "mitchell2026|CaquGR324 family=GR source=Mitchell_2026 original_id=CaquGR324 exact_sources=mitchell2026",
+    "sequence_sha256": "efea200619acb8fefc34d09656b6c638d201853b60dd479e7b84c796ffa57277"
+  },
+  {
+    "source_id": "CaquGR326",
+    "output_header": "mitchell2026|CaquGR326 family=GR source=Mitchell_2026 original_id=CaquGR326 exact_sources=mitchell2026",
+    "sequence_sha256": "f3fd45dda7fdd0a528363a0c5e43b77e79e5e5bfffb42126c87fd2f3d1b0b375"
+  },
+  {
+    "source_id": "CaquGR33",
+    "output_header": "mitchell2026|CaquGR33 family=GR source=Mitchell_2026 original_id=CaquGR33 exact_sources=mitchell2026",
+    "sequence_sha256": "404f9151583b5490c3b3ac0e984297a57de5c45f8f09752e9340cc066e8943f1"
+  },
+  {
+    "source_id": "CaquGR330",
+    "output_header": "mitchell2026|CaquGR330 family=GR source=Mitchell_2026 original_id=CaquGR330 exact_sources=mitchell2026",
+    "sequence_sha256": "ea0cf75270d431c475e6b2883a2b0aa1a5f06b47e4cb3abb6a9295ade6cbb00c"
+  },
+  {
+    "source_id": "CaquGR333",
+    "output_header": "mitchell2026|CaquGR333 family=GR source=Mitchell_2026 original_id=CaquGR333 exact_sources=mitchell2026",
+    "sequence_sha256": "15dbf3e5161125999efe4b2eeb78a87e40695683916401510de4b81c9c6e1c1b"
+  },
+  {
+    "source_id": "CaquGR334",
+    "output_header": "mitchell2026|CaquGR334 family=GR source=Mitchell_2026 original_id=CaquGR334 exact_sources=mitchell2026",
+    "sequence_sha256": "b47b95b1c8525aaabd10a476ab58225307fdcd83c3b3ad91b6315331ddead993"
+  },
+  {
+    "source_id": "CaquGR335",
+    "output_header": "mitchell2026|CaquGR335 family=GR source=Mitchell_2026 original_id=CaquGR335 exact_sources=mitchell2026",
+    "sequence_sha256": "34caa137195885405b2c6214e470d93a89fd88bc1857a620503ab588e7892c1e"
+  },
+  {
+    "source_id": "CaquGR336",
+    "output_header": "mitchell2026|CaquGR336 family=GR source=Mitchell_2026 original_id=CaquGR336 exact_sources=mitchell2026",
+    "sequence_sha256": "352f7df38dd0976c3187f818c55ee026336d769fdcbabf0261405b8ff6d18252"
+  },
+  {
+    "source_id": "CaquGR338",
+    "output_header": "mitchell2026|CaquGR338 family=GR source=Mitchell_2026 original_id=CaquGR338 exact_sources=mitchell2026",
+    "sequence_sha256": "fe699cb1e16784d0bfae878fc422478792c0873761b20a95db67e1787f25cde8"
+  },
+  {
+    "source_id": "CaquGR339",
+    "output_header": "mitchell2026|CaquGR339 family=GR source=Mitchell_2026 original_id=CaquGR339 exact_sources=mitchell2026",
+    "sequence_sha256": "217039f429eda88487622c9bb91384bf65665c1c6a12155528a7fda7b507ba14"
+  },
+  {
+    "source_id": "CaquGR341b",
+    "output_header": "mitchell2026|CaquGR341b family=GR source=Mitchell_2026 original_id=CaquGR341b exact_sources=mitchell2026",
+    "sequence_sha256": "9fc8228632ad3ebced7bfc1021c4bad343467318ebcd64106e9ffdb3b8b24c3d"
+  },
+  {
+    "source_id": "CaquGR348",
+    "output_header": "mitchell2026|CaquGR348 family=GR source=Mitchell_2026 original_id=CaquGR348 exact_sources=mitchell2026",
+    "sequence_sha256": "f5f71c9a431e7b8db4c8b5bb8f6f7c1ed2224690f28592bba0f17b8abdec6525"
+  },
+  {
+    "source_id": "CaquGR353",
+    "output_header": "mitchell2026|CaquGR353 family=GR source=Mitchell_2026 original_id=CaquGR353 exact_sources=mitchell2026",
+    "sequence_sha256": "c1cc018a9452a8a4a593e0ba0e221c26799b8293ed662cd864828277a64f7483"
+  },
+  {
+    "source_id": "CaquGR355",
+    "output_header": "mitchell2026|CaquGR355 family=GR source=Mitchell_2026 original_id=CaquGR355 exact_sources=mitchell2026",
+    "sequence_sha256": "ed5da00dcc26d7a3d44024522b294fa2c9d4741633e91b49df3400fea175fe9e"
+  },
+  {
+    "source_id": "CaquGR360",
+    "output_header": "mitchell2026|CaquGR360 family=GR source=Mitchell_2026 original_id=CaquGR360 exact_sources=mitchell2026",
+    "sequence_sha256": "e949232d3c65f1176513fccd7d5b8c10fae7223af10b1bd24a3f4e101b76ea7e"
+  },
+  {
+    "source_id": "CaquGR361",
+    "output_header": "mitchell2026|CaquGR361 family=GR source=Mitchell_2026 original_id=CaquGR361 exact_sources=mitchell2026",
+    "sequence_sha256": "f6001d173d270a5d3e6cd0462d397d9286326be77196598df9db24a3775b8027"
+  },
+  {
+    "source_id": "CaquGR362",
+    "output_header": "mitchell2026|CaquGR362 family=GR source=Mitchell_2026 original_id=CaquGR362 exact_sources=mitchell2026",
+    "sequence_sha256": "6b02de64997524d34b0c3b5a2dc45f75a18031c79fd820308761afa59484dc02"
+  },
+  {
+    "source_id": "CaquGR363",
+    "output_header": "mitchell2026|CaquGR363 family=GR source=Mitchell_2026 original_id=CaquGR363 exact_sources=mitchell2026",
+    "sequence_sha256": "0cf052fbdec74dd7d6d5942f2480c0206efd3606f38bf632676ac8d07a21c9a3"
+  },
+  {
+    "source_id": "CaquGR369b",
+    "output_header": "mitchell2026|CaquGR369b family=GR source=Mitchell_2026 original_id=CaquGR369b exact_sources=mitchell2026",
+    "sequence_sha256": "43a2d86a555f89dab1135c3a8c39530071704924e92ef3b460f23d10413d0375"
+  },
+  {
+    "source_id": "CaquGR372",
+    "output_header": "mitchell2026|CaquGR372 family=GR source=Mitchell_2026 original_id=CaquGR372 exact_sources=mitchell2026",
+    "sequence_sha256": "434203ed4daede01582c5794cef8e4195026532c8d314cf233236e6a55022f58"
+  },
+  {
+    "source_id": "CaquGR39",
+    "output_header": "mitchell2026|CaquGR39 family=GR source=Mitchell_2026 original_id=CaquGR39 exact_sources=mitchell2026",
+    "sequence_sha256": "08e6434e8fbebdff4756762c60eb152a068f3dd951adf42c177b23dc4d3f35e9"
+  },
+  {
+    "source_id": "CaquGR396",
+    "output_header": "mitchell2026|CaquGR396 family=GR source=Mitchell_2026 original_id=CaquGR396 exact_sources=mitchell2026",
+    "sequence_sha256": "b1431e432076eea87dc8d91dccd81dc9173365b7fd20680b396fa90ccd0f6425"
+  },
+  {
+    "source_id": "CaquGR4",
+    "output_header": "mitchell2026|CaquGR4 family=GR source=Mitchell_2026 original_id=CaquGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "0307f3a227f8ed2434a1284931642337f586430857186cb55b87b9911d400364"
+  },
+  {
+    "source_id": "CaquGR406",
+    "output_header": "mitchell2026|CaquGR406 family=GR source=Mitchell_2026 original_id=CaquGR406 exact_sources=mitchell2026",
+    "sequence_sha256": "e48d304c613eef8678b734643b58d20ae15c009c50604f83b639efc1d8d33756"
+  },
+  {
+    "source_id": "CaquGR410",
+    "output_header": "mitchell2026|CaquGR410 family=GR source=Mitchell_2026 original_id=CaquGR410 exact_sources=mitchell2026",
+    "sequence_sha256": "d424b91d2fbcf50173d829a0cc6ce89b471151a0cf2047a4c21970d62b50ed3c"
+  },
+  {
+    "source_id": "CaquGR411",
+    "output_header": "mitchell2026|CaquGR411 family=GR source=Mitchell_2026 original_id=CaquGR411 exact_sources=mitchell2026",
+    "sequence_sha256": "edd1db9d3ad886165d7dd0c1c9330b8355a8d4b2c8f17418c14130dafe925213"
+  },
+  {
+    "source_id": "CaquGR412",
+    "output_header": "mitchell2026|CaquGR412 family=GR source=Mitchell_2026 original_id=CaquGR412 exact_sources=mitchell2026",
+    "sequence_sha256": "e979a29f43dab5bb5f7c61bb2da14ba6efedb92850ff0d8fee68a98efc385c30"
+  },
+  {
+    "source_id": "CaquGR413",
+    "output_header": "mitchell2026|CaquGR413 family=GR source=Mitchell_2026 original_id=CaquGR413 exact_sources=mitchell2026",
+    "sequence_sha256": "4b07e1c464d4b4e87b79a16312b22312db8e4542240ad533ac49d8114ab6cfd3"
+  },
+  {
+    "source_id": "CaquGR414",
+    "output_header": "mitchell2026|CaquGR414 family=GR source=Mitchell_2026 original_id=CaquGR414 exact_sources=mitchell2026",
+    "sequence_sha256": "27530344b068a641fb348c4a12ac7e2cc93ed118c9fc300f0b14f4be42ec1071"
+  },
+  {
+    "source_id": "CaquGR415",
+    "output_header": "mitchell2026|CaquGR415 family=GR source=Mitchell_2026 original_id=CaquGR415 exact_sources=mitchell2026",
+    "sequence_sha256": "4ac68f515f5302eb2c6710af357bc128bece2b48839e847282482fc5bd10711b"
+  },
+  {
+    "source_id": "CaquGR417",
+    "output_header": "mitchell2026|CaquGR417 family=GR source=Mitchell_2026 original_id=CaquGR417 exact_sources=mitchell2026",
+    "sequence_sha256": "ab3203695f25bc49f4a8842acdedfe30864001eeeb631e23c2f33a3be5568002"
+  },
+  {
+    "source_id": "CaquGR420",
+    "output_header": "mitchell2026|CaquGR420 family=GR source=Mitchell_2026 original_id=CaquGR420 exact_sources=mitchell2026",
+    "sequence_sha256": "566878f6f56b1fbd94143860060e7b6a8bf8e89484e60486ac78002a0394bde3"
+  },
+  {
+    "source_id": "CaquGR423",
+    "output_header": "mitchell2026|CaquGR423 family=GR source=Mitchell_2026 original_id=CaquGR423 exact_sources=mitchell2026",
+    "sequence_sha256": "02a8df8e3d934ee76ac3db98ea9138e26c65b02805c451dac2ece3e899e6e86b"
+  },
+  {
+    "source_id": "CaquGR424",
+    "output_header": "mitchell2026|CaquGR424 family=GR source=Mitchell_2026 original_id=CaquGR424 exact_sources=mitchell2026",
+    "sequence_sha256": "cdde0193d62191f4981f8ca7766295c960f38665b30bfd7be4e9b77d3241d138"
+  },
+  {
+    "source_id": "CaquGR426",
+    "output_header": "mitchell2026|CaquGR426 family=GR source=Mitchell_2026 original_id=CaquGR426 exact_sources=mitchell2026",
+    "sequence_sha256": "fa8a371acf850d3456a55f7af792fef1110077af2f9052b7d60053ea9a0f73ca"
+  },
+  {
+    "source_id": "CaquGR432",
+    "output_header": "mitchell2026|CaquGR432 family=GR source=Mitchell_2026 original_id=CaquGR432 exact_sources=mitchell2026",
+    "sequence_sha256": "1cc3bcc1a156620afc85ceda21f9c97a5709074ba685bbf2e22aa3a6da24c530"
+  },
+  {
+    "source_id": "CaquGR433",
+    "output_header": "mitchell2026|CaquGR433 family=GR source=Mitchell_2026 original_id=CaquGR433 exact_sources=mitchell2026",
+    "sequence_sha256": "5cb4c351b624929b55ce2cc528f794d5b2335ea9e33a86012121ec7049c29765"
+  },
+  {
+    "source_id": "CaquGR438",
+    "output_header": "mitchell2026|CaquGR438 family=GR source=Mitchell_2026 original_id=CaquGR438 exact_sources=mitchell2026",
+    "sequence_sha256": "a9930f15213061a3324549f1336602e61a076c18563d7bd70d02d71da0370858"
+  },
+  {
+    "source_id": "CaquGR44",
+    "output_header": "mitchell2026|CaquGR44 family=GR source=Mitchell_2026 original_id=CaquGR44 exact_sources=mitchell2026",
+    "sequence_sha256": "b909802619e4c0ef8779e883f266d5039b09a4682e613d7c7b85e58ccc727b4a"
+  },
+  {
+    "source_id": "CaquGR440",
+    "output_header": "mitchell2026|CaquGR440 family=GR source=Mitchell_2026 original_id=CaquGR440 exact_sources=mitchell2026",
+    "sequence_sha256": "19da47064fd17f75cfa143602ed7739b1ef8f499eb4e3bfa5e4fc0bb6f7ea059"
+  },
+  {
+    "source_id": "CaquGR450",
+    "output_header": "mitchell2026|CaquGR450 family=GR source=Mitchell_2026 original_id=CaquGR450 exact_sources=mitchell2026",
+    "sequence_sha256": "0ae1dc7a6506dce3aa615f225c8d7fb0579266baea2d0df54ae31c4e050bacef"
+  },
+  {
+    "source_id": "CaquGR458",
+    "output_header": "mitchell2026|CaquGR458 family=GR source=Mitchell_2026 original_id=CaquGR458 exact_sources=mitchell2026",
+    "sequence_sha256": "5eb929f4295c80d1d04151bd5521427d5796147832631c9df47765557c76bb25"
+  },
+  {
+    "source_id": "CaquGR459",
+    "output_header": "mitchell2026|CaquGR459 family=GR source=Mitchell_2026 original_id=CaquGR459 exact_sources=mitchell2026",
+    "sequence_sha256": "1dbfa6725a87e5ccbf0815ca61847c6784cca241be12be20df0ec57c494f1ca1"
+  },
+  {
+    "source_id": "CaquGR46",
+    "output_header": "mitchell2026|CaquGR46 family=GR source=Mitchell_2026 original_id=CaquGR46 exact_sources=mitchell2026",
+    "sequence_sha256": "19ae0a95fb248608e6a0e0536c27bdf4e1b8bb926e325b8344e49f0ef32c3ba1"
+  },
+  {
+    "source_id": "CaquGR460a",
+    "output_header": "mitchell2026|CaquGR460a family=GR source=Mitchell_2026 original_id=CaquGR460a exact_sources=mitchell2026",
+    "sequence_sha256": "e55d6e4480fcc82e6856a1dba47f5a2df57f0204a88f043db302d95359ac193b"
+  },
+  {
+    "source_id": "CaquGR461",
+    "output_header": "mitchell2026|CaquGR461 family=GR source=Mitchell_2026 original_id=CaquGR461 exact_sources=mitchell2026",
+    "sequence_sha256": "365b36637c0e7367c70ee6edd27659064835eda35195079dd727075f02bc024b"
+  },
+  {
+    "source_id": "CaquGR469",
+    "output_header": "mitchell2026|CaquGR469 family=GR source=Mitchell_2026 original_id=CaquGR469 exact_sources=mitchell2026",
+    "sequence_sha256": "32cec2bee112b2b3b543109afb8f0117fe77e0abff2a141abb4dc54dd7a0f492"
+  },
+  {
+    "source_id": "CaquGR48",
+    "output_header": "mitchell2026|CaquGR48 family=GR source=Mitchell_2026 original_id=CaquGR48 exact_sources=mitchell2026",
+    "sequence_sha256": "498bb1a894b3d13d5c3dbb2cfb71bc822dbf29c370a23eaea7967d04df78696c"
+  },
+  {
+    "source_id": "CaquGR480",
+    "output_header": "mitchell2026|CaquGR480 family=GR source=Mitchell_2026 original_id=CaquGR480 exact_sources=mitchell2026",
+    "sequence_sha256": "c8bebf0ee253652c3863125ff58a888cf9c52ab9ef89bf094c8bbf9caf76d665"
+  },
+  {
+    "source_id": "CaquGR481",
+    "output_header": "mitchell2026|CaquGR481 family=GR source=Mitchell_2026 original_id=CaquGR481 exact_sources=mitchell2026",
+    "sequence_sha256": "98f1a430f802957165961d7391f0512eeeefbe82ae8957da7ddcd972f760f9f3"
+  },
+  {
+    "source_id": "CaquGR485",
+    "output_header": "mitchell2026|CaquGR485 family=GR source=Mitchell_2026 original_id=CaquGR485 exact_sources=mitchell2026",
+    "sequence_sha256": "4cf415ee2969489c1e6775f5cf65ae3eff4464f3551b05709814298e65a6ba8e"
+  },
+  {
+    "source_id": "CaquGR493",
+    "output_header": "mitchell2026|CaquGR493 family=GR source=Mitchell_2026 original_id=CaquGR493 exact_sources=mitchell2026",
+    "sequence_sha256": "fa112b4945c652d167d689444bf1b13058ddf574d5f7ab6b0fd285686607900e"
+  },
+  {
+    "source_id": "CaquGR496",
+    "output_header": "mitchell2026|CaquGR496 family=GR source=Mitchell_2026 original_id=CaquGR496 exact_sources=mitchell2026",
+    "sequence_sha256": "c195a8c142128e32925e204c7db0564a2266edecea2d7537ba8e49159725c2b6"
+  },
+  {
+    "source_id": "CaquGR497",
+    "output_header": "mitchell2026|CaquGR497 family=GR source=Mitchell_2026 original_id=CaquGR497 exact_sources=mitchell2026",
+    "sequence_sha256": "7a47e65f2d0afb8aa4aa8adba083be88ac60660960022699f5d1d35b14f022c1"
+  },
+  {
+    "source_id": "CaquGR5",
+    "output_header": "mitchell2026|CaquGR5 family=GR source=Mitchell_2026 original_id=CaquGR5 exact_sources=mitchell2026",
+    "sequence_sha256": "56a7fd786f65660825193f716eecbe8fd46eed31414e68029d7079e54fe21c9f"
+  },
+  {
+    "source_id": "CaquGR500",
+    "output_header": "mitchell2026|CaquGR500 family=GR source=Mitchell_2026 original_id=CaquGR500 exact_sources=mitchell2026",
+    "sequence_sha256": "5a0aea17f687a8f948733bb464b5b40a98d39cfe4ab9c7a89a8b9cc8033d0bae"
+  },
+  {
+    "source_id": "CaquGR504",
+    "output_header": "mitchell2026|CaquGR504 family=GR source=Mitchell_2026 original_id=CaquGR504 exact_sources=mitchell2026",
+    "sequence_sha256": "b90e8da8b9411704550b4ed7fc9bdfeebccae0b66aa47c92f9baa56d9fc8ec3a"
+  },
+  {
+    "source_id": "CaquGR505",
+    "output_header": "mitchell2026|CaquGR505 family=GR source=Mitchell_2026 original_id=CaquGR505 exact_sources=mitchell2026",
+    "sequence_sha256": "d8aa97668fb7cd7325fa0e37c2fb90bb9a2dce375e5e7942ecdf265eb272b291"
+  },
+  {
+    "source_id": "CaquGR506",
+    "output_header": "mitchell2026|CaquGR506 family=GR source=Mitchell_2026 original_id=CaquGR506 exact_sources=mitchell2026",
+    "sequence_sha256": "79bb060fa6fee0d2307f13a1c7754e3fbe398add930ef0626b6ef0353861044d"
+  },
+  {
+    "source_id": "CaquGR507",
+    "output_header": "mitchell2026|CaquGR507 family=GR source=Mitchell_2026 original_id=CaquGR507 exact_sources=mitchell2026",
+    "sequence_sha256": "a7e121561582ddd770a39ad1770fd2dc756e84e4f3f16ffd8a178d2540145da3"
+  },
+  {
+    "source_id": "CaquGR510",
+    "output_header": "mitchell2026|CaquGR510 family=GR source=Mitchell_2026 original_id=CaquGR510 exact_sources=mitchell2026",
+    "sequence_sha256": "b97f5ca0e6b0593caa2cb9e948c18e217ad011ad7ecafe20dfb82a30df6ccc77"
+  },
+  {
+    "source_id": "CaquGR511",
+    "output_header": "mitchell2026|CaquGR511 family=GR source=Mitchell_2026 original_id=CaquGR511 exact_sources=mitchell2026",
+    "sequence_sha256": "91d9ac28a0d92d46c5a67dffa5e7d6c45f8e2c1c6c106d33acf77e43ae04144b"
+  },
+  {
+    "source_id": "CaquGR515",
+    "output_header": "mitchell2026|CaquGR515 family=GR source=Mitchell_2026 original_id=CaquGR515 exact_sources=mitchell2026",
+    "sequence_sha256": "8fbfca593d7baaf99d2b59d4c650e75d605e67f6f881280e2ccb453507d46764"
+  },
+  {
+    "source_id": "CaquGR52",
+    "output_header": "mitchell2026|CaquGR52 family=GR source=Mitchell_2026 original_id=CaquGR52 exact_sources=mitchell2026",
+    "sequence_sha256": "5846862b9f1ef6a474b53ab73a4d8e91dad12b306d715e09021b41a4dc0640db"
+  },
+  {
+    "source_id": "CaquGR520",
+    "output_header": "mitchell2026|CaquGR520 family=GR source=Mitchell_2026 original_id=CaquGR520 exact_sources=mitchell2026",
+    "sequence_sha256": "ad826e4cef76152cdbd4b06798ba4598f43315aed3c123724eb83d0343525f12"
+  },
+  {
+    "source_id": "CaquGR523",
+    "output_header": "mitchell2026|CaquGR523 family=GR source=Mitchell_2026 original_id=CaquGR523 exact_sources=mitchell2026",
+    "sequence_sha256": "1001a039689968422bab552d9feb5938a7a1edf27fa7f2d2d771d7213ed3152f"
+  },
+  {
+    "source_id": "CaquGR525",
+    "output_header": "mitchell2026|CaquGR525 family=GR source=Mitchell_2026 original_id=CaquGR525 exact_sources=mitchell2026",
+    "sequence_sha256": "b57fb1f4ec3cac38f5507e2de7c94f5deb8c64ce0031d04c651899ea8b9a8132"
+  },
+  {
+    "source_id": "CaquGR530",
+    "output_header": "mitchell2026|CaquGR530 family=GR source=Mitchell_2026 original_id=CaquGR530 exact_sources=mitchell2026",
+    "sequence_sha256": "9a54081f1cd2e7a110af39fb2d578fcd3ede61d20a2a7b9ca71739986a293a44"
+  },
+  {
+    "source_id": "CaquGR531",
+    "output_header": "mitchell2026|CaquGR531 family=GR source=Mitchell_2026 original_id=CaquGR531 exact_sources=mitchell2026",
+    "sequence_sha256": "83d4156370993a788f1391ea2aab43e490c898fb533acf4550ef0345b94efd10"
+  },
+  {
+    "source_id": "CaquGR532",
+    "output_header": "mitchell2026|CaquGR532 family=GR source=Mitchell_2026 original_id=CaquGR532 exact_sources=mitchell2026",
+    "sequence_sha256": "44739d67652afab868f1ff38bdf78ee214753da0aec2838d164aea88b3e852e4"
+  },
+  {
+    "source_id": "CaquGR533",
+    "output_header": "mitchell2026|CaquGR533 family=GR source=Mitchell_2026 original_id=CaquGR533 exact_sources=mitchell2026",
+    "sequence_sha256": "da5b7f322d1b93544431b93e49867297628d1004b84462e79c84e873076117ed"
+  },
+  {
+    "source_id": "CaquGR535",
+    "output_header": "mitchell2026|CaquGR535 family=GR source=Mitchell_2026 original_id=CaquGR535 exact_sources=mitchell2026",
+    "sequence_sha256": "53ec9e76c783d961f3fe6fa255a4e552682360b48962d4537c44ddbbc70ac168"
+  },
+  {
+    "source_id": "CaquGR536",
+    "output_header": "mitchell2026|CaquGR536 family=GR source=Mitchell_2026 original_id=CaquGR536 exact_sources=mitchell2026",
+    "sequence_sha256": "c95dd9c7e60793281ec941981d2893cfb2901d222e4a609cd56171f1e6476f8b"
+  },
+  {
+    "source_id": "CaquGR537",
+    "output_header": "mitchell2026|CaquGR537 family=GR source=Mitchell_2026 original_id=CaquGR537 exact_sources=mitchell2026",
+    "sequence_sha256": "88c8b47dfad51e178fe187d5a0ef4182832ca77d6ba63f363c7661d446aa72e3"
+  },
+  {
+    "source_id": "CaquGR538",
+    "output_header": "mitchell2026|CaquGR538 family=GR source=Mitchell_2026 original_id=CaquGR538 exact_sources=mitchell2026",
+    "sequence_sha256": "26a1a0b8ce4d98189da08c57bde65b81fa4c5d4d3d7eca65e10134a65405ddad"
+  },
+  {
+    "source_id": "CaquGR541",
+    "output_header": "mitchell2026|CaquGR541 family=GR source=Mitchell_2026 original_id=CaquGR541 exact_sources=mitchell2026",
+    "sequence_sha256": "0607e4fc84f2b5ff096f3449f0339b17bda5e13522a40b61c4df8779d6e552db"
+  },
+  {
+    "source_id": "CaquGR57",
+    "output_header": "mitchell2026|CaquGR57 family=GR source=Mitchell_2026 original_id=CaquGR57 exact_sources=mitchell2026",
+    "sequence_sha256": "badf72a1c0bd9d59af8b2e1e2b1da6ee09606e92f4287789dc1deb3e41bc23a7"
+  },
+  {
+    "source_id": "CaquGR6",
+    "output_header": "mitchell2026|CaquGR6 family=GR source=Mitchell_2026 original_id=CaquGR6 exact_sources=mitchell2026",
+    "sequence_sha256": "b289f271e1ff7f7eafc5317cbe725121257c50c285f1fbda88eaabf17cb4bcbd"
+  },
+  {
+    "source_id": "CaquGR60",
+    "output_header": "mitchell2026|CaquGR60 family=GR source=Mitchell_2026 original_id=CaquGR60 exact_sources=mitchell2026",
+    "sequence_sha256": "e32c6664d04951683ada6106eacc1cc10e0d3bb193628f66eefa25970755e7ee"
+  },
+  {
+    "source_id": "CaquGR62",
+    "output_header": "mitchell2026|CaquGR62 family=GR source=Mitchell_2026 original_id=CaquGR62 exact_sources=mitchell2026",
+    "sequence_sha256": "39dee6f46ecfb1ef81ab0318cca44264d21b83ba60d3efce044cfcc530d328ea"
+  },
+  {
+    "source_id": "CaquGR65",
+    "output_header": "mitchell2026|CaquGR65 family=GR source=Mitchell_2026 original_id=CaquGR65 exact_sources=mitchell2026",
+    "sequence_sha256": "91482c4aa00ed07b34b5190ab33b01614ada2320d5d5dbd8989ab204b4110880"
+  },
+  {
+    "source_id": "CaquGR67",
+    "output_header": "mitchell2026|CaquGR67 family=GR source=Mitchell_2026 original_id=CaquGR67 exact_sources=mitchell2026",
+    "sequence_sha256": "869411c9ad6b3cf9e817db54045c8a217fd6dc66e05829d41bfa88df34a72589"
+  },
+  {
+    "source_id": "CaquGR7",
+    "output_header": "mitchell2026|CaquGR7 family=GR source=Mitchell_2026 original_id=CaquGR7 exact_sources=mitchell2026",
+    "sequence_sha256": "1fa0d7feb23f19973ed326d22ddea2c82d79dc9cd0ca9ec932e6ece3f1303e49"
+  },
+  {
+    "source_id": "CaquGR71",
+    "output_header": "mitchell2026|CaquGR71 family=GR source=Mitchell_2026 original_id=CaquGR71 exact_sources=mitchell2026",
+    "sequence_sha256": "ba0a0e7d9e6777bb6a84cf5a246700af54f92e5ea6477444375554ea5d979daf"
+  },
+  {
+    "source_id": "CaquGR73",
+    "output_header": "mitchell2026|CaquGR73 family=GR source=Mitchell_2026 original_id=CaquGR73 exact_sources=mitchell2026",
+    "sequence_sha256": "344cedf62e81a02cb1b6e0b7b186b4dd3998d5c77db2d29b3497779a0b3482ab"
+  },
+  {
+    "source_id": "CaquGR75",
+    "output_header": "mitchell2026|CaquGR75 family=GR source=Mitchell_2026 original_id=CaquGR75 exact_sources=mitchell2026",
+    "sequence_sha256": "234d204b56373cac197920faa82cc7b5945644e0f90035a951367e621a486a79"
+  },
+  {
+    "source_id": "CaquGR8",
+    "output_header": "mitchell2026|CaquGR8 family=GR source=Mitchell_2026 original_id=CaquGR8 exact_sources=mitchell2026",
+    "sequence_sha256": "cb17acea4641f445e4e7b36da1d16498889d7af56d871103e34a8371facdec8a"
+  },
+  {
+    "source_id": "CaquGR9",
+    "output_header": "mitchell2026|CaquGR9 family=GR source=Mitchell_2026 original_id=CaquGR9 exact_sources=mitchell2026",
+    "sequence_sha256": "27005137e4bc01be6d96d274f036a40badf518fe6dd56b879a1dc705904e883c"
+  },
+  {
+    "source_id": "CaugGR1",
+    "output_header": "mitchell2026|CaugGR1 family=GR source=Mitchell_2026 original_id=CaugGR1 exact_sources=mitchell2026",
+    "sequence_sha256": "bb1f04b921e7de90a69cb114e29a0d2a50796aa29776a1420a59d08f2823a0b2"
+  },
+  {
+    "source_id": "CaugGR11",
+    "output_header": "mitchell2026|CaugGR11 family=GR source=Mitchell_2026 original_id=CaugGR11 exact_sources=mitchell2026",
+    "sequence_sha256": "82daad65560398dbd723c9c523bcacbf4ba5487256a135dbbe078a23c3fcd34c"
+  },
+  {
+    "source_id": "CaugGR13J",
+    "output_header": "mitchell2026|CaugGR13J family=GR source=Mitchell_2026 original_id=CaugGR13J exact_sources=mitchell2026",
+    "sequence_sha256": "3924736223d87fd0736f1fb5a7f7ee43b7b5a554c38270bb55924c8809bb5567"
+  },
+  {
+    "source_id": "CaugGR14",
+    "output_header": "mitchell2026|CaugGR14 family=GR source=Mitchell_2026 original_id=CaugGR14 exact_sources=mitchell2026",
+    "sequence_sha256": "8c7d0273adc0571aa1d798eb88410792bc5fca1e27883d5d7242581f7a1aa3b4"
+  },
+  {
+    "source_id": "CaugGR15",
+    "output_header": "mitchell2026|CaugGR15 family=GR source=Mitchell_2026 original_id=CaugGR15 exact_sources=mitchell2026",
+    "sequence_sha256": "ead688e1482d9f28f0185fa352bf663dc772dd49c4b4fe5f0a95aedfd1b9f30f"
+  },
+  {
+    "source_id": "CaugGR17",
+    "output_header": "mitchell2026|CaugGR17 family=GR source=Mitchell_2026 original_id=CaugGR17 exact_sources=mitchell2026",
+    "sequence_sha256": "4eed8d3e185c5ab5502653cd747454a5ab51af419074785889d52cd50ec45b0b"
+  },
+  {
+    "source_id": "CaugGR18",
+    "output_header": "mitchell2026|CaugGR18 family=GR source=Mitchell_2026 original_id=CaugGR18 exact_sources=mitchell2026",
+    "sequence_sha256": "4cf7d66ef60351cb3951be53d7109ca967ca9abb0d3ee39542a8b468f2e5b65b"
+  },
+  {
+    "source_id": "CaugGR19",
+    "output_header": "mitchell2026|CaugGR19 family=GR source=Mitchell_2026 original_id=CaugGR19 exact_sources=mitchell2026",
+    "sequence_sha256": "01c08fa47f536fdf6a75c46137f1732f1035c3d14c281348c64bc54bc3960082"
+  },
+  {
+    "source_id": "CaugGR2",
+    "output_header": "mitchell2026|CaugGR2 family=GR source=Mitchell_2026 original_id=CaugGR2 exact_sources=mitchell2026",
+    "sequence_sha256": "e7a04a77f63bd85f16a8631842ba1f49be34dd69417c3b718d9bc714b0c8967c"
+  },
+  {
+    "source_id": "CaugGR20",
+    "output_header": "mitchell2026|CaugGR20 family=GR source=Mitchell_2026 original_id=CaugGR20 exact_sources=mitchell2026",
+    "sequence_sha256": "a7fc97bd7a4f6d7d28d97a62e471709c927acda60e6989672a66e6be6d25179e"
+  },
+  {
+    "source_id": "CaugGR21",
+    "output_header": "mitchell2026|CaugGR21 family=GR source=Mitchell_2026 original_id=CaugGR21 exact_sources=mitchell2026",
+    "sequence_sha256": "00ba96856f3ab1a34e3d9a204f4cd743c1a3be97b01bae661b9ff1ee49bb1093"
+  },
+  {
+    "source_id": "CaugGR25",
+    "output_header": "mitchell2026|CaugGR25 family=GR source=Mitchell_2026 original_id=CaugGR25 exact_sources=mitchell2026",
+    "sequence_sha256": "89d39b3da9e614b0de3918fe5cc23dc18e0e259bde7c062b3601497639268b7c"
+  },
+  {
+    "source_id": "CaugGR26",
+    "output_header": "mitchell2026|CaugGR26 family=GR source=Mitchell_2026 original_id=CaugGR26 exact_sources=mitchell2026",
+    "sequence_sha256": "7a9e5b3553465474d532f351eb41aa13032c33a710eb41ed54a5116ce544eea9"
+  },
+  {
+    "source_id": "CaugGR28P",
+    "output_header": "mitchell2026|CaugGR28P family=GR source=Mitchell_2026 original_id=CaugGR28P exact_sources=mitchell2026",
+    "sequence_sha256": "ef616f0b4e10597feea27a7931907b9fd2866bb0a70b693cf03d385aa93a53af"
+  },
+  {
+    "source_id": "CaugGR3",
+    "output_header": "mitchell2026|CaugGR3 family=GR source=Mitchell_2026 original_id=CaugGR3 exact_sources=mitchell2026",
+    "sequence_sha256": "2efa9994a9b3996bfa9aef51062c8b3c92774746171a08f0ef6078be91ec86d5"
+  },
+  {
+    "source_id": "CaugGR30F",
+    "output_header": "mitchell2026|CaugGR30F family=GR source=Mitchell_2026 original_id=CaugGR30F exact_sources=mitchell2026",
+    "sequence_sha256": "5f798b361cdc755ee3ddf0d7aa6dc33de2b7a2c6cde8e044cc02bcd721625f69"
+  },
+  {
+    "source_id": "CaugGR32",
+    "output_header": "mitchell2026|CaugGR32 family=GR source=Mitchell_2026 original_id=CaugGR32 exact_sources=mitchell2026",
+    "sequence_sha256": "207c8a52fa239fa9157bf3af5b866d140a60c586c7f91be755a6f8640a8e19b3"
+  },
+  {
+    "source_id": "CaugGR35P",
+    "output_header": "mitchell2026|CaugGR35P family=GR source=Mitchell_2026 original_id=CaugGR35P exact_sources=mitchell2026",
+    "sequence_sha256": "0b73cc2eb9ec9f391b96d0e303480e2a311b4f587591ea4df04880b2479d37c2"
+  },
+  {
+    "source_id": "CaugGR38P",
+    "output_header": "mitchell2026|CaugGR38P family=GR source=Mitchell_2026 original_id=CaugGR38P exact_sources=mitchell2026",
+    "sequence_sha256": "20c3b12380915b83d7797b0bed4bff78d250b0bde7d596e7679a5a5e66430f3b"
+  },
+  {
+    "source_id": "CaugGR4",
+    "output_header": "mitchell2026|CaugGR4 family=GR source=Mitchell_2026 original_id=CaugGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "bb1fc8663f6fea154f396231cbfc94322eb56370046c37a577815028f7a89927"
+  },
+  {
+    "source_id": "CaugGR44",
+    "output_header": "mitchell2026|CaugGR44 family=GR source=Mitchell_2026 original_id=CaugGR44 exact_sources=mitchell2026",
+    "sequence_sha256": "52866dd06bfcc4ff193fbe740f24734f0aed3808514c0830a37924f144958d59"
+  },
+  {
+    "source_id": "CaugGR5",
+    "output_header": "mitchell2026|CaugGR5 family=GR source=Mitchell_2026 original_id=CaugGR5 exact_sources=mitchell2026",
+    "sequence_sha256": "b89338962212aba1a74a3f87db0dde67b9a027da19a76888ae05847c94bf9487"
+  },
+  {
+    "source_id": "CaugGR7",
+    "output_header": "mitchell2026|CaugGR7 family=GR source=Mitchell_2026 original_id=CaugGR7 exact_sources=mitchell2026",
+    "sequence_sha256": "22021600cbb725fcb9223e5468517eb6b0ed329545e911aa3bbeb75cbf7c760b"
+  },
+  {
+    "source_id": "CaugGR8",
+    "output_header": "mitchell2026|CaugGR8 family=GR source=Mitchell_2026 original_id=CaugGR8 exact_sources=mitchell2026",
+    "sequence_sha256": "0cb7f0d75dd4f41bb06d988e97439c05e5fd7a59706c7d5246aadd59b39d36cc"
+  },
+  {
+    "source_id": "CaugGR9",
+    "output_header": "mitchell2026|CaugGR9 family=GR source=Mitchell_2026 original_id=CaugGR9 exact_sources=mitchell2026",
+    "sequence_sha256": "ff8502dd7071fdfc99a1ad61a57114699e92c4eb7af176d4669dc68af055c72a"
+  },
+  {
+    "source_id": "CsplGR1",
+    "output_header": "mitchell2026|CsplGR1 family=GR source=Mitchell_2026 original_id=CsplGR1 exact_sources=mitchell2026",
+    "sequence_sha256": "a9c199660ec792b1213e6d5cddc8abd433a74d2807d7e5a906da061654a59b16"
+  },
+  {
+    "source_id": "CsplGR10",
+    "output_header": "mitchell2026|CsplGR10 family=GR source=Mitchell_2026 original_id=CsplGR10 exact_sources=mitchell2026",
+    "sequence_sha256": "68dbb3600b99c6263b123dab436c72571d54acdaf7af884633ee4e2e34c2b1d4"
+  },
+  {
+    "source_id": "CsplGR11",
+    "output_header": "mitchell2026|CsplGR11 family=GR source=Mitchell_2026 original_id=CsplGR11 exact_sources=mitchell2026",
+    "sequence_sha256": "31c2192e5fc17598ee3e3b953495e9e89ce8c564e4af473e2ce825ac58d6f9a4"
+  },
+  {
+    "source_id": "CsplGR12",
+    "output_header": "mitchell2026|CsplGR12 family=GR source=Mitchell_2026 original_id=CsplGR12 exact_sources=mitchell2026",
+    "sequence_sha256": "964e663873596a8abd03193d14e476fa17b93428825ed27aaed95cad5198c979"
+  },
+  {
+    "source_id": "CsplGR13",
+    "output_header": "mitchell2026|CsplGR13 family=GR source=Mitchell_2026 original_id=CsplGR13 exact_sources=mitchell2026",
+    "sequence_sha256": "f18f8031223285a8a8ad0a63f32e003233e21f57fc2b6262406f19a386ab47b4"
+  },
+  {
+    "source_id": "CsplGR15",
+    "output_header": "mitchell2026|CsplGR15 family=GR source=Mitchell_2026 original_id=CsplGR15 exact_sources=mitchell2026",
+    "sequence_sha256": "144211509191dcd21960e4a62b2153fac945ca7e4f9b41cdaa500a2f035f68ee"
+  },
+  {
+    "source_id": "CsplGR17",
+    "output_header": "mitchell2026|CsplGR17 family=GR source=Mitchell_2026 original_id=CsplGR17 exact_sources=mitchell2026",
+    "sequence_sha256": "80ef1368e7a9df6510d0dcfffb01a396f51b52d9feb0370fdb27fb8864ed7dad"
+  },
+  {
+    "source_id": "CsplGR18",
+    "output_header": "mitchell2026|CsplGR18 family=GR source=Mitchell_2026 original_id=CsplGR18 exact_sources=mitchell2026",
+    "sequence_sha256": "7f48b2bd5539db8046f5b76f4c9dd7982e3e5aef81fc2da4f0534df9a970dea1"
+  },
+  {
+    "source_id": "CsplGR19",
+    "output_header": "mitchell2026|CsplGR19 family=GR source=Mitchell_2026 original_id=CsplGR19 exact_sources=mitchell2026",
+    "sequence_sha256": "9ca62b47fdd21992b28e0139d37f25d1f09ead93221a5a639d47dae4bda084c8"
+  },
+  {
+    "source_id": "CsplGR2",
+    "output_header": "mitchell2026|CsplGR2 family=GR source=Mitchell_2026 original_id=CsplGR2 exact_sources=mitchell2026",
+    "sequence_sha256": "a06f847f9b1a9de75a46030814298350a54586fb97803544ed3b6434637d25af"
+  },
+  {
+    "source_id": "CsplGR20a",
+    "output_header": "mitchell2026|CsplGR20a family=GR source=Mitchell_2026 original_id=CsplGR20a exact_sources=mitchell2026",
+    "sequence_sha256": "ac74efd4e9126bd9ca9165c28ae635f4fc71bce75a1993c9032666dba61d2180"
+  },
+  {
+    "source_id": "CsplGR20b",
+    "output_header": "mitchell2026|CsplGR20b family=GR source=Mitchell_2026 original_id=CsplGR20b exact_sources=mitchell2026",
+    "sequence_sha256": "6988411497de9a0b06e54162b3be5d42def1c05e4fef39594348a1747fdd8d1c"
+  },
+  {
+    "source_id": "CsplGR22aJOI",
+    "output_header": "mitchell2026|CsplGR22aJOI family=GR source=Mitchell_2026 original_id=CsplGR22aJOI exact_sources=mitchell2026",
+    "sequence_sha256": "fab2d996ade015e81b6fb141c840f4014153e5f1b778ccd97eb8a512a61b50e8"
+  },
+  {
+    "source_id": "CsplGR23FIX",
+    "output_header": "mitchell2026|CsplGR23FIX family=GR source=Mitchell_2026 original_id=CsplGR23FIX exact_sources=mitchell2026",
+    "sequence_sha256": "7344950d94788c15048c83d60f03beb56ef55c850298ec4542c0323748789452"
+  },
+  {
+    "source_id": "CsplGR24aFIX",
+    "output_header": "mitchell2026|CsplGR24aFIX family=GR source=Mitchell_2026 original_id=CsplGR24aFIX exact_sources=mitchell2026",
+    "sequence_sha256": "91b4cb0200c6306d486a6c5cef980c33cd6de36d68ae9ee1933fb7828d01b608"
+  },
+  {
+    "source_id": "CsplGR25FIX",
+    "output_header": "mitchell2026|CsplGR25FIX family=GR source=Mitchell_2026 original_id=CsplGR25FIX exact_sources=mitchell2026",
+    "sequence_sha256": "c2a3625276a2ad771dc8a74b52b37e96ca368b1c7f7973cc43ee753417e2a918"
+  },
+  {
+    "source_id": "CsplGR26cFIX",
+    "output_header": "mitchell2026|CsplGR26cFIX family=GR source=Mitchell_2026 original_id=CsplGR26cFIX exact_sources=mitchell2026",
+    "sequence_sha256": "a42c434c7fea41742a5e908dd65d9f49cdc8a47a4e5e42139685eb41daa080d2"
+  },
+  {
+    "source_id": "CsplGR27FIX",
+    "output_header": "mitchell2026|CsplGR27FIX family=GR source=Mitchell_2026 original_id=CsplGR27FIX exact_sources=mitchell2026",
+    "sequence_sha256": "1bc90cb0afc2928da0ebc0e724a909d57d4785601964fe04ab9a2f0f4b1b25df"
+  },
+  {
+    "source_id": "CsplGR28",
+    "output_header": "mitchell2026|CsplGR28 family=GR source=Mitchell_2026 original_id=CsplGR28 exact_sources=mitchell2026",
+    "sequence_sha256": "d71ff6801dea4c998b35f2939305f867011575aad148e876c2ef7f9c35621a65"
+  },
+  {
+    "source_id": "CsplGR29",
+    "output_header": "mitchell2026|CsplGR29 family=GR source=Mitchell_2026 original_id=CsplGR29 exact_sources=mitchell2026",
+    "sequence_sha256": "3211b1822ee0ec39f83d599776f8364a4df182b136121fb59848ef5fe9805701"
+  },
+  {
+    "source_id": "CsplGR30",
+    "output_header": "mitchell2026|CsplGR30 family=GR source=Mitchell_2026 original_id=CsplGR30 exact_sources=mitchell2026",
+    "sequence_sha256": "defecafd75c0d2e17c3b408bf08866cdb1037a0c93f586e9e57bcc2520457a93"
+  },
+  {
+    "source_id": "CsplGR31FJ",
+    "output_header": "mitchell2026|CsplGR31FJ family=GR source=Mitchell_2026 original_id=CsplGR31FJ exact_sources=mitchell2026",
+    "sequence_sha256": "fb2f49b6da86692257ad5812d8640e3519fb739209c0fc51037483a1d44f5fc7"
+  },
+  {
+    "source_id": "CsplGR32FP",
+    "output_header": "mitchell2026|CsplGR32FP family=GR source=Mitchell_2026 original_id=CsplGR32FP exact_sources=mitchell2026",
+    "sequence_sha256": "9880405a90b5d30da3e13792f6ea793a1ccc38b871ec6744ca83539a713a1721"
+  },
+  {
+    "source_id": "CsplGR33FIX",
+    "output_header": "mitchell2026|CsplGR33FIX family=GR source=Mitchell_2026 original_id=CsplGR33FIX exact_sources=mitchell2026",
+    "sequence_sha256": "30f693e181691e231c3348b43547045c4d7cb5dea1aa23e4f282890c7cb70ed5"
+  },
+  {
+    "source_id": "CsplGR37FIX",
+    "output_header": "mitchell2026|CsplGR37FIX family=GR source=Mitchell_2026 original_id=CsplGR37FIX exact_sources=mitchell2026",
+    "sequence_sha256": "9d0af0cabfd334c94fedc0611a44b890a4a7aff70e89ef8877c7aa503eef71d1"
+  },
+  {
+    "source_id": "CsplGR42aFP",
+    "output_header": "mitchell2026|CsplGR42aFP family=GR source=Mitchell_2026 original_id=CsplGR42aFP exact_sources=mitchell2026",
+    "sequence_sha256": "6bae71dedecfe99695f79e86119ad82f833f314d3588c0e1fefa3a02c9c5f072"
+  },
+  {
+    "source_id": "CsplGR44FIX",
+    "output_header": "mitchell2026|CsplGR44FIX family=GR source=Mitchell_2026 original_id=CsplGR44FIX exact_sources=mitchell2026",
+    "sequence_sha256": "218056d1ce421c24218dff079303a5792750102ce06f3ff7b66765e638b511e9"
+  },
+  {
+    "source_id": "CsplGR46bPJ",
+    "output_header": "mitchell2026|CsplGR46bPJ family=GR source=Mitchell_2026 original_id=CsplGR46bPJ exact_sources=mitchell2026",
+    "sequence_sha256": "127b40ef55083c2f7ce62ac1b65b3c7adf60f06a82149a63bf6368b316f0cd0e"
+  },
+  {
+    "source_id": "CsplGR46cJOI",
+    "output_header": "mitchell2026|CsplGR46cJOI family=GR source=Mitchell_2026 original_id=CsplGR46cJOI exact_sources=mitchell2026",
+    "sequence_sha256": "b8942e898da430c1a5f2c9ed481e27c2adddc4fc38f6c16bd19ff0f54213cd11"
+  },
+  {
+    "source_id": "CsplGR47bJOI",
+    "output_header": "mitchell2026|CsplGR47bJOI family=GR source=Mitchell_2026 original_id=CsplGR47bJOI exact_sources=mitchell2026",
+    "sequence_sha256": "6efd1254c7385452966b98de66966ffb27767755f7a81c22f0b26bbc6ff88576"
+  },
+  {
+    "source_id": "CsplGR47e",
+    "output_header": "mitchell2026|CsplGR47e family=GR source=Mitchell_2026 original_id=CsplGR47e exact_sources=mitchell2026",
+    "sequence_sha256": "2025501c1eb2713811c7c35285dd26409782b34c7bf10d5da3299edeb527fea6"
+  },
+  {
+    "source_id": "CsplGR47f",
+    "output_header": "mitchell2026|CsplGR47f family=GR source=Mitchell_2026 original_id=CsplGR47f exact_sources=mitchell2026",
+    "sequence_sha256": "3a02101ec2b0d9d05cf545e89cf2a18b7c1de927a9c8978e0d63e3ce639d2086"
+  },
+  {
+    "source_id": "CsplGR47g",
+    "output_header": "mitchell2026|CsplGR47g family=GR source=Mitchell_2026 original_id=CsplGR47g exact_sources=mitchell2026",
+    "sequence_sha256": "1cc92a9970a9576ad6def053b6d9fe774073500b87369c8fee372ce5c961dc5d"
+  },
+  {
+    "source_id": "CsplGR49lFP",
+    "output_header": "mitchell2026|CsplGR49lFP family=GR source=Mitchell_2026 original_id=CsplGR49lFP exact_sources=mitchell2026",
+    "sequence_sha256": "e9dc8b1288d45ac12387610f263cfdf7615c3cdfd03b5fb67aeb29d697b75162"
+  },
+  {
+    "source_id": "CsplGR49pFIX",
+    "output_header": "mitchell2026|CsplGR49pFIX family=GR source=Mitchell_2026 original_id=CsplGR49pFIX exact_sources=mitchell2026",
+    "sequence_sha256": "56f2e192b4b43be8c7d723aa94eb8b72d610ad9470b0fc362631097016c48aaa"
+  },
+  {
+    "source_id": "CsplGR4a",
+    "output_header": "mitchell2026|CsplGR4a family=GR source=Mitchell_2026 original_id=CsplGR4a exact_sources=mitchell2026",
+    "sequence_sha256": "88c05f858ca8dc84bdc8dc65c47788747937a65cbdb03cb27f1166d8098a1755"
+  },
+  {
+    "source_id": "CsplGR4b",
+    "output_header": "mitchell2026|CsplGR4b family=GR source=Mitchell_2026 original_id=CsplGR4b exact_sources=mitchell2026",
+    "sequence_sha256": "44b1ff7967d6864ae0fabb9d44798983f2671b759a3cf5f5696ece74d8a0cc84"
+  },
+  {
+    "source_id": "CsplGR50aJOI",
+    "output_header": "mitchell2026|CsplGR50aJOI family=GR source=Mitchell_2026 original_id=CsplGR50aJOI exact_sources=mitchell2026",
+    "sequence_sha256": "75f61c701209447112b4d742a86959279460879b0ab4dea122876dbff27ae109"
+  },
+  {
+    "source_id": "CsplGR50bJP",
+    "output_header": "mitchell2026|CsplGR50bJP family=GR source=Mitchell_2026 original_id=CsplGR50bJP exact_sources=mitchell2026",
+    "sequence_sha256": "f941137e3cd1ceb6b6f669b7a53a3dce4aad60602bd5c1fdabeb7957de60503c"
+  },
+  {
+    "source_id": "CsplGR50j",
+    "output_header": "mitchell2026|CsplGR50j family=GR source=Mitchell_2026 original_id=CsplGR50j exact_sources=mitchell2026",
+    "sequence_sha256": "d1de79938d324aa3ea4c068d79f848db2a0ea4fb8166ab5b672b567f54793d6c"
+  },
+  {
+    "source_id": "CsplGR51cJOI",
+    "output_header": "mitchell2026|CsplGR51cJOI family=GR source=Mitchell_2026 original_id=CsplGR51cJOI exact_sources=mitchell2026",
+    "sequence_sha256": "263e71475d5c3ccb28691904a0f2faf1ace976695fc1a5d40c9ec94e7b4eab1e"
+  },
+  {
+    "source_id": "CsplGR51dJOI",
+    "output_header": "mitchell2026|CsplGR51dJOI family=GR source=Mitchell_2026 original_id=CsplGR51dJOI exact_sources=mitchell2026",
+    "sequence_sha256": "4e029cd5bed91a4c0e31eaa828772e422e0338444269e47773b36c70e40f8864"
+  },
+  {
+    "source_id": "CsplGR51n",
+    "output_header": "mitchell2026|CsplGR51n family=GR source=Mitchell_2026 original_id=CsplGR51n exact_sources=mitchell2026",
+    "sequence_sha256": "0ab7f6b7efcd04083c414bb8ffa93e807bb63eed2af1e21b305d21abbca888c2"
+  },
+  {
+    "source_id": "CsplGR51u",
+    "output_header": "mitchell2026|CsplGR51u family=GR source=Mitchell_2026 original_id=CsplGR51u exact_sources=mitchell2026",
+    "sequence_sha256": "b17d37dacc7c139abcc4b08142c12987ccdf04f1e44576ff7dc502f387203cc7"
+  },
+  {
+    "source_id": "CsplGR5FIX",
+    "output_header": "mitchell2026|CsplGR5FIX family=GR source=Mitchell_2026 original_id=CsplGR5FIX exact_sources=mitchell2026",
+    "sequence_sha256": "f22f4e61d4dfc6a906e28ea5c2f21c4dca982f30a763bf5405624f1961255d12"
+  },
+  {
+    "source_id": "CsplGR6",
+    "output_header": "mitchell2026|CsplGR6 family=GR source=Mitchell_2026 original_id=CsplGR6 exact_sources=mitchell2026",
+    "sequence_sha256": "ff15908f47b7859351d563b833656f6c45c888b082067db09a876e84a285d288"
+  },
+  {
+    "source_id": "CsplGR7FIX",
+    "output_header": "mitchell2026|CsplGR7FIX family=GR source=Mitchell_2026 original_id=CsplGR7FIX exact_sources=mitchell2026",
+    "sequence_sha256": "5d06e46ee98295cf1f519ba9be24c8a037fc758996cfda2090d91191b964df04"
+  },
+  {
+    "source_id": "CsplGR8",
+    "output_header": "mitchell2026|CsplGR8 family=GR source=Mitchell_2026 original_id=CsplGR8 exact_sources=mitchell2026",
+    "sequence_sha256": "d33a2ebdd7027918b0342bf414ef18cd5a0623cafe960558104b6c2a25ffcdaa"
+  },
+  {
+    "source_id": "CsplGR9",
+    "output_header": "mitchell2026|CsplGR9 family=GR source=Mitchell_2026 original_id=CsplGR9 exact_sources=mitchell2026",
+    "sequence_sha256": "27490e0607ec3ccd719e27d513b52783523f479bf8a215e8918a4a7b6e92630a"
+  },
+  {
+    "source_id": "DmelGR63a",
+    "output_header": "mitchell2026|DmelGR63a family=GR source=Mitchell_2026 original_id=DmelGR63a exact_sources=mitchell2026",
+    "sequence_sha256": "2c8f15526636a730bd31022c1b861e82efdecc3de0b2eac8c3c8e9be49fa4884"
+  },
+  {
+    "source_id": "EtorGR4",
+    "output_header": "mitchell2026|EtorGR4 family=GR source=Mitchell_2026 original_id=EtorGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "87214925b3226609010549e4bb3adc013b55dff2a1154253996d2818471641d1"
+  },
+  {
+    "source_id": "EtorGR7",
+    "output_header": "mitchell2026|EtorGR7 family=GR source=Mitchell_2026 original_id=EtorGR7 exact_sources=mitchell2026",
+    "sequence_sha256": "0d80261216aecc0d437b05cf04b11ed477474f25d80f178f4cf68f279eda7edd"
+  },
+  {
+    "source_id": "LbosGR1",
+    "output_header": "mitchell2026|LbosGR1 family=GR source=Mitchell_2026 original_id=LbosGR1 exact_sources=mitchell2026",
+    "sequence_sha256": "c83a87439e0c8e19fc29e889335fc149c88be560822b46bf166840fffd712cd6"
+  },
+  {
+    "source_id": "LminGR1",
+    "output_header": "mitchell2026|LminGR1 family=GR source=Mitchell_2026 original_id=LminGR1 exact_sources=mitchell2026",
+    "sequence_sha256": "c6f1a93fa228ca2fad17d7951db8dae4791364c09472d0bc8e155924ccfb56e0"
+  },
+  {
+    "source_id": "LminGR2",
+    "output_header": "mitchell2026|LminGR2 family=GR source=Mitchell_2026 original_id=LminGR2 exact_sources=mitchell2026",
+    "sequence_sha256": "baec0df17bfb73f7d695ab115b63061a377392b0d6579c2af0560767476e4dd7"
+  },
+  {
+    "source_id": "LminGR3",
+    "output_header": "mitchell2026|LminGR3 family=GR source=Mitchell_2026 original_id=LminGR3 exact_sources=mitchell2026",
+    "sequence_sha256": "9c13c0d2d237946c03e67eccaa27e52023a9be710ff59909a39cd6f6ee561e3f"
+  },
+  {
+    "source_id": "LminGR4",
+    "output_header": "mitchell2026|LminGR4 family=GR source=Mitchell_2026 original_id=LminGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "daba29555e882ca1deb4f15c722b9c5c695c509b5fa580f5679cf5538bf5926c"
+  },
+  {
+    "source_id": "LminGR5",
+    "output_header": "mitchell2026|LminGR5 family=GR source=Mitchell_2026 original_id=LminGR5 exact_sources=mitchell2026",
+    "sequence_sha256": "2cc8bd6a507f1fd7c73a6deec4f4e3302b6d74442c98eea6531a9a31444ce8e9"
+  },
+  {
+    "source_id": "LminGR6",
+    "output_header": "mitchell2026|LminGR6 family=GR source=Mitchell_2026 original_id=LminGR6 exact_sources=mitchell2026",
+    "sequence_sha256": "de80745a78a92b45d38e49c5273d9117a8ecb832f68ffcfe8107f07fce784cec"
+  },
+  {
+    "source_id": "LminGR8",
+    "output_header": "mitchell2026|LminGR8 family=GR source=Mitchell_2026 original_id=LminGR8 exact_sources=mitchell2026",
+    "sequence_sha256": "00681fc2ce33fe42268447bacbf6199045f88fa4b3f78780b89f09655be895a6"
+  },
+  {
+    "source_id": "LminGR9",
+    "output_header": "mitchell2026|LminGR9 family=GR source=Mitchell_2026 original_id=LminGR9 exact_sources=mitchell2026",
+    "sequence_sha256": "e363039326d7ef1c2df712cbc57d78d33b0572560a60ffcbadfcd100ff24af86"
+  },
+  {
+    "source_id": "LsacGR1",
+    "output_header": "mitchell2026|LsacGR1 family=GR source=Mitchell_2026 original_id=LsacGR1 exact_sources=mitchell2026",
+    "sequence_sha256": "782a7f46393c6f4ac973d7ae599c081b4b81fe7f5ecc0191a797e712abd3a9ab"
+  },
+  {
+    "source_id": "MaruGR4",
+    "output_header": "mitchell2026|MaruGR4 family=GR source=Mitchell_2026 original_id=MaruGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "d8a548e0f96d9fc87088c04b8999983906db99e241829e4479fdcac3a41f6682"
+  },
+  {
+    "source_id": "MhraGR1",
+    "output_header": "mitchell2026|MhraGR1 family=GR source=Mitchell_2026 original_id=MhraGR1 exact_sources=mitchell2026",
+    "sequence_sha256": "7aacf95b6d104a52c7c1e761fb977d213f46767fab87875c2aea5a69b022b1d7"
+  },
+  {
+    "source_id": "MhraGR10",
+    "output_header": "mitchell2026|MhraGR10 family=GR source=Mitchell_2026 original_id=MhraGR10 exact_sources=mitchell2026",
+    "sequence_sha256": "fd881806891c1009a7ecb7e24eb6cc62ffaeafb2c2682c1c081b37968f237f73"
+  },
+  {
+    "source_id": "MhraGR114",
+    "output_header": "mitchell2026|MhraGR114 family=GR source=Mitchell_2026 original_id=MhraGR114 exact_sources=mitchell2026",
+    "sequence_sha256": "bf8df9818da4cf8029dbcc3917a3afb18204bd9332ae04c23dca4e4d50a7c482"
+  },
+  {
+    "source_id": "MhraGR120",
+    "output_header": "mitchell2026|MhraGR120 family=GR source=Mitchell_2026 original_id=MhraGR120 exact_sources=mitchell2026",
+    "sequence_sha256": "299ccb26bce4f5556df99f1e23883144f962b5d9f499afc31abe5b3bec1b2335"
+  },
+  {
+    "source_id": "MhraGR150",
+    "output_header": "mitchell2026|MhraGR150 family=GR source=Mitchell_2026 original_id=MhraGR150 exact_sources=mitchell2026",
+    "sequence_sha256": "7f9f1ef38356463578bad296ff767a711b08ab3f1dc9b88fd614216d2a8a58d8"
+  },
+  {
+    "source_id": "MhraGR153",
+    "output_header": "mitchell2026|MhraGR153 family=GR source=Mitchell_2026 original_id=MhraGR153 exact_sources=mitchell2026",
+    "sequence_sha256": "ec19879612461c1122915101c4bc5ba4af38f7b9721d3eb5bb07ebef5d4203a8"
+  },
+  {
+    "source_id": "MhraGR19",
+    "output_header": "mitchell2026|MhraGR19 family=GR source=Mitchell_2026 original_id=MhraGR19 exact_sources=mitchell2026",
+    "sequence_sha256": "04e0488276bedb7dc2c760d8d2148ca0b3beb8a0614101f8b150605b86f37f2d"
+  },
+  {
+    "source_id": "MhraGR22",
+    "output_header": "mitchell2026|MhraGR22 family=GR source=Mitchell_2026 original_id=MhraGR22 exact_sources=mitchell2026",
+    "sequence_sha256": "d9acd45169fd9094c21dec5e684d20b21f5ce1688039f62a1c4ff881553738c4"
+  },
+  {
+    "source_id": "MhraGR23",
+    "output_header": "mitchell2026|MhraGR23 family=GR source=Mitchell_2026 original_id=MhraGR23 exact_sources=mitchell2026",
+    "sequence_sha256": "1c0ac7d46270dfe5c1bb5f50a8c9c58921cf79d43cbf1039ff97e78f7d970072"
+  },
+  {
+    "source_id": "MhraGR27",
+    "output_header": "mitchell2026|MhraGR27 family=GR source=Mitchell_2026 original_id=MhraGR27 exact_sources=mitchell2026",
+    "sequence_sha256": "45a44a882541591fbb850ff15e28c97fe0ebfddede5e9fc9fc9c4ad41539bc57"
+  },
+  {
+    "source_id": "MhraGR29",
+    "output_header": "mitchell2026|MhraGR29 family=GR source=Mitchell_2026 original_id=MhraGR29 exact_sources=mitchell2026",
+    "sequence_sha256": "b6baaaacfe7cf5162c23394978cc56642a024bb352e36a88c81d86f19374561a"
+  },
+  {
+    "source_id": "MhraGR30",
+    "output_header": "mitchell2026|MhraGR30 family=GR source=Mitchell_2026 original_id=MhraGR30 exact_sources=mitchell2026",
+    "sequence_sha256": "14949842cf5fd36aeb56f9fa509dd9bae84af733eb9b5f9086f3d93925ef4058"
+  },
+  {
+    "source_id": "MhraGR35",
+    "output_header": "mitchell2026|MhraGR35 family=GR source=Mitchell_2026 original_id=MhraGR35 exact_sources=mitchell2026",
+    "sequence_sha256": "3622b15ac92b8a90f565d49ffdca98dde6f858bd647f2b36872e359993e1aad0"
+  },
+  {
+    "source_id": "MhraGR44",
+    "output_header": "mitchell2026|MhraGR44 family=GR source=Mitchell_2026 original_id=MhraGR44 exact_sources=mitchell2026",
+    "sequence_sha256": "f5e52fa607041f6cca54ca3ba3fd75256184dda60be482f9dcb25bc61b805c59"
+  },
+  {
+    "source_id": "MhraGR46",
+    "output_header": "mitchell2026|MhraGR46 family=GR source=Mitchell_2026 original_id=MhraGR46 exact_sources=mitchell2026",
+    "sequence_sha256": "4faf2b68ecf728e088a4f0cd2c64e7b7cf0d8ef26f8546ccb702a9d892938c21"
+  },
+  {
+    "source_id": "MhraGR59",
+    "output_header": "mitchell2026|MhraGR59 family=GR source=Mitchell_2026 original_id=MhraGR59 exact_sources=mitchell2026",
+    "sequence_sha256": "4d11b93bd62bf3400ee6bc548f178c1fa63a50924168e4745ded52e37b12beb9"
+  },
+  {
+    "source_id": "MhraGR83",
+    "output_header": "mitchell2026|MhraGR83 family=GR source=Mitchell_2026 original_id=MhraGR83 exact_sources=mitchell2026",
+    "sequence_sha256": "c45d607006e62305f7e6d1080834419a23a3bb19eb2ed4c56ec61c8e05f9d1ff"
+  },
+  {
+    "source_id": "MhraGR85",
+    "output_header": "mitchell2026|MhraGR85 family=GR source=Mitchell_2026 original_id=MhraGR85 exact_sources=mitchell2026",
+    "sequence_sha256": "28312cf0a825eed0a1d6930ce8bc4afe3f612763123a0b2f9080d47b386336aa"
+  },
+  {
+    "source_id": "OflaGR3",
+    "output_header": "mitchell2026|OflaGR3 family=GR source=Mitchell_2026 original_id=OflaGR3 exact_sources=mitchell2026",
+    "sequence_sha256": "f8c9d5dffb5c7e1f560393c11877d4679f3bffb50140037967a87983c81d305e"
+  },
+  {
+    "source_id": "PameGR523_NEW",
+    "output_header": "mitchell2026|PameGR523_NEW family=GR source=Mitchell_2026 original_id=PameGR523_NEW exact_sources=mitchell2026",
+    "sequence_sha256": "d595cfbf0f6421fdd45ecc62e6f684458f0a00db6a78b0aa5a924f3d9de8a1dd"
+  },
+  {
+    "source_id": "PameGR525_NEW",
+    "output_header": "mitchell2026|PameGR525_NEW family=GR source=Mitchell_2026 original_id=PameGR525_NEW exact_sources=mitchell2026",
+    "sequence_sha256": "672f3ff9634afe616d835977cd67fae1c8f4ef96b9c67d6c538dabde028daa7e"
+  },
+  {
+    "source_id": "PameGR526_NEW",
+    "output_header": "mitchell2026|PameGR526_NEW family=GR source=Mitchell_2026 original_id=PameGR526_NEW exact_sources=mitchell2026",
+    "sequence_sha256": "095134bb527b6036cec812e2f721ad85153e463ba0bc3b1ac926698648402079"
+  },
+  {
+    "source_id": "PameGR527a_NEW",
+    "output_header": "mitchell2026|PameGR527a_NEW family=GR source=Mitchell_2026 original_id=PameGR527a_NEW exact_sources=mitchell2026",
+    "sequence_sha256": "537e0d9a2a6bfba0938665a5cbb8ccd0cb00b3036936fc78698f14ea1cf8fa7f"
+  },
+  {
+    "source_id": "PgermGR4a",
+    "output_header": "mitchell2026|PgermGR4a family=GR source=Mitchell_2026 original_id=PgermGR4a exact_sources=mitchell2026",
+    "sequence_sha256": "309da8e5d33c381bb8b7d34cb3dec6f7fef46673d5cfdcb7f45ac39d5b7bc331"
+  },
+  {
+    "source_id": "PserGR4a",
+    "output_header": "mitchell2026|PserGR4a family=GR source=Mitchell_2026 original_id=PserGR4a exact_sources=mitchell2026",
+    "sequence_sha256": "e3e46ab64634d05057d680199eb1e57cc3dd3ea95b7fe3a1b0f8ecd8a0c25e7e"
+  },
+  {
+    "source_id": "SgreGR4",
+    "output_header": "mitchell2026|SgreGR4 family=GR source=Mitchell_2026 original_id=SgreGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "6612df7fd1a755234f1804d80ad2103a05bf89cdf77f295e38546ecbff26845f"
+  },
+  {
+    "source_id": "SgreGR6",
+    "output_header": "mitchell2026|SgreGR6 family=GR source=Mitchell_2026 original_id=SgreGR6 exact_sources=mitchell2026",
+    "sequence_sha256": "c60d1698d625def55761ebb3eba7b5e0637145bcfd32d023b0e0b48c15a278b5"
+  },
+  {
+    "source_id": "SmarGR11",
+    "output_header": "mitchell2026|SmarGR11 family=GR source=Mitchell_2026 original_id=SmarGR11 exact_sources=mitchell2026",
+    "sequence_sha256": "693aa2e79cbb7a4b74ef2bd62fa74fb5e0e7956617e7816b77d28e72b31ec0f7"
+  },
+  {
+    "source_id": "SmarGR13",
+    "output_header": "mitchell2026|SmarGR13 family=GR source=Mitchell_2026 original_id=SmarGR13 exact_sources=mitchell2026",
+    "sequence_sha256": "1c90733de580afdbdd1ec5742de673f431d54adedb0be8954b7013a31a5e813d"
+  },
+  {
+    "source_id": "SmarGR26",
+    "output_header": "mitchell2026|SmarGR26 family=GR source=Mitchell_2026 original_id=SmarGR26 exact_sources=mitchell2026",
+    "sequence_sha256": "76400dca54ab5b1664270a50fc0179349a81b81947934e96b85d42cc22873916"
+  },
+  {
+    "source_id": "SmarGR35",
+    "output_header": "mitchell2026|SmarGR35 family=GR source=Mitchell_2026 original_id=SmarGR35 exact_sources=mitchell2026",
+    "sequence_sha256": "9bc47424179465e9274d272c7a5cdc27b7068cbb538e249572a78c5feaa26b1e"
+  },
+  {
+    "source_id": "SmarGR41",
+    "output_header": "mitchell2026|SmarGR41 family=GR source=Mitchell_2026 original_id=SmarGR41 exact_sources=mitchell2026",
+    "sequence_sha256": "81a973318ff67db138b7421db4fb668118bcae47c4c9993264dc8c6e38093beb"
+  },
+  {
+    "source_id": "SmarGR42",
+    "output_header": "mitchell2026|SmarGR42 family=GR source=Mitchell_2026 original_id=SmarGR42 exact_sources=mitchell2026",
+    "sequence_sha256": "82f23538d8e7446c20614878f9477dfd9a2b7ca0c2b0e6cb751a96f849ec2d29"
+  },
+  {
+    "source_id": "SmarGR49",
+    "output_header": "mitchell2026|SmarGR49 family=GR source=Mitchell_2026 original_id=SmarGR49 exact_sources=mitchell2026",
+    "sequence_sha256": "20f16a4cea68602310110490a62a5cda45cfec98b8e93c0df86675493af0f47b"
+  },
+  {
+    "source_id": "SmarGR52",
+    "output_header": "mitchell2026|SmarGR52 family=GR source=Mitchell_2026 original_id=SmarGR52 exact_sources=mitchell2026",
+    "sequence_sha256": "f9ffcfa66d84e73085650049871b72b892c40bc269205c29fd07cf6ffd30f0bd"
+  },
+  {
+    "source_id": "SmarGR57",
+    "output_header": "mitchell2026|SmarGR57 family=GR source=Mitchell_2026 original_id=SmarGR57 exact_sources=mitchell2026",
+    "sequence_sha256": "d92dbfd57cae447e8a03bfbbb53034a66aff9632e1f933c320bc46815e2e9cc3"
+  },
+  {
+    "source_id": "SmarGR64",
+    "output_header": "mitchell2026|SmarGR64 family=GR source=Mitchell_2026 original_id=SmarGR64 exact_sources=mitchell2026",
+    "sequence_sha256": "7449555dd1374d142c64e06ccc76c7b4aa3648b7045a8ae7fcf381eb770d0fb0"
+  },
+  {
+    "source_id": "SmarGR70",
+    "output_header": "mitchell2026|SmarGR70 family=GR source=Mitchell_2026 original_id=SmarGR70 exact_sources=mitchell2026",
+    "sequence_sha256": "094be669252511d2c4cc708626c0fb0a96104f561d351055aa18e4f731f95488"
+  },
+  {
+    "source_id": "SmarGR72",
+    "output_header": "mitchell2026|SmarGR72 family=GR source=Mitchell_2026 original_id=SmarGR72 exact_sources=mitchell2026",
+    "sequence_sha256": "11326bec5384f04b6dd8bc97d0e97c3e6d3fd631d9b2a1745106532089ac13c7"
+  },
+  {
+    "source_id": "SmarGR75",
+    "output_header": "mitchell2026|SmarGR75 family=GR source=Mitchell_2026 original_id=SmarGR75 exact_sources=mitchell2026",
+    "sequence_sha256": "f5be0041258ae516409a8bcc515bd96c44f8abd2408716ec33189c08afad60be"
+  },
+  {
+    "source_id": "SmarGR76FIX",
+    "output_header": "mitchell2026|SmarGR76FIX family=GR source=Mitchell_2026 original_id=SmarGR76FIX exact_sources=mitchell2026",
+    "sequence_sha256": "5c8d058a41b8306707e94125e1923930d584d8e87d5bd22cd48a452b9308a0fb"
+  },
+  {
+    "source_id": "TcasGR216",
+    "output_header": "mitchell2026|TcasGR216 family=GR source=Mitchell_2026 original_id=TcasGR216 exact_sources=mitchell2026",
+    "sequence_sha256": "a73fabd21bce08cafb99fa6c1632bdc7f52b216dd0c0d5be252103a11f39a2a2"
+  },
+  {
+    "source_id": "TdomGR1",
+    "output_header": "mitchell2026|TdomGR1 family=GR source=Mitchell_2026 original_id=TdomGR1 exact_sources=mitchell2026",
+    "sequence_sha256": "601e41feb737f8ec5e2b3780cf3856be3b7f9ed98bf70e4a7d41aa41e317218a"
+  },
+  {
+    "source_id": "TdomGR101a",
+    "output_header": "mitchell2026|TdomGR101a family=GR source=Mitchell_2026 original_id=TdomGR101a exact_sources=mitchell2026",
+    "sequence_sha256": "29d9293903c26d6957bd7b2a86242087f7a2f364c75895b58cd7b22b301fc343"
+  },
+  {
+    "source_id": "TdomGR103",
+    "output_header": "mitchell2026|TdomGR103 family=GR source=Mitchell_2026 original_id=TdomGR103 exact_sources=mitchell2026",
+    "sequence_sha256": "d6602b3f2c4b2c9b0e66720ff488763fd447de5e756f76312a980aec0ef62246"
+  },
+  {
+    "source_id": "TdomGR104",
+    "output_header": "mitchell2026|TdomGR104 family=GR source=Mitchell_2026 original_id=TdomGR104 exact_sources=mitchell2026",
+    "sequence_sha256": "0148e51be7951b30403d3c7116b4b3e79456740b4aeeda2774943cd29e7c06e9"
+  },
+  {
+    "source_id": "TdomGR106a",
+    "output_header": "mitchell2026|TdomGR106a family=GR source=Mitchell_2026 original_id=TdomGR106a exact_sources=mitchell2026",
+    "sequence_sha256": "93bb70e23659a66dd460e0894ee54d13aa146f3957c7af272fde650a953dfd21"
+  },
+  {
+    "source_id": "TdomGR107b",
+    "output_header": "mitchell2026|TdomGR107b family=GR source=Mitchell_2026 original_id=TdomGR107b exact_sources=mitchell2026",
+    "sequence_sha256": "95ad1e7bf331f964a325062b7a30b423d1e66ebab1f8b125b7a4aed4b0371f5a"
+  },
+  {
+    "source_id": "TdomGR11a",
+    "output_header": "mitchell2026|TdomGR11a family=GR source=Mitchell_2026 original_id=TdomGR11a exact_sources=mitchell2026",
+    "sequence_sha256": "8eb57d03214a4ffe166b137660ce12e4bcfd9bd15c2c2c9481beb9419c58cbb1"
+  },
+  {
+    "source_id": "TdomGR12b",
+    "output_header": "mitchell2026|TdomGR12b family=GR source=Mitchell_2026 original_id=TdomGR12b exact_sources=mitchell2026",
+    "sequence_sha256": "8f81c582538a295566ebf0c331c92e6b5b7248a5d898198a9354eb684bf0fb44"
+  },
+  {
+    "source_id": "TdomGR13b",
+    "output_header": "mitchell2026|TdomGR13b family=GR source=Mitchell_2026 original_id=TdomGR13b exact_sources=mitchell2026",
+    "sequence_sha256": "39a9faba46ba08956083417e23db7f7f1b7cd476789f007e45e551005681e56d"
+  },
+  {
+    "source_id": "TdomGR14",
+    "output_header": "mitchell2026|TdomGR14 family=GR source=Mitchell_2026 original_id=TdomGR14 exact_sources=mitchell2026",
+    "sequence_sha256": "655b9ef7d6177b76592ae749ce5e830c30d23d886ea424e2c6a31d300248d1e4"
+  },
+  {
+    "source_id": "TdomGR15b",
+    "output_header": "mitchell2026|TdomGR15b family=GR source=Mitchell_2026 original_id=TdomGR15b exact_sources=mitchell2026",
+    "sequence_sha256": "24bafce103b4b6eb081a82349eccea8ed88938203ff04b3e152430f0507fd152"
+  },
+  {
+    "source_id": "TdomGR17a",
+    "output_header": "mitchell2026|TdomGR17a family=GR source=Mitchell_2026 original_id=TdomGR17a exact_sources=mitchell2026",
+    "sequence_sha256": "3e8ba224ecec3b7ede0657c7cb65230a14a5290f6148ee3b17d886c552ac2780"
+  },
+  {
+    "source_id": "TdomGR18",
+    "output_header": "mitchell2026|TdomGR18 family=GR source=Mitchell_2026 original_id=TdomGR18 exact_sources=mitchell2026",
+    "sequence_sha256": "1f6ce628d0b55a4d07fa7423f1f1a85a1e3e6b0fed71cb6276e199edc826328a"
+  },
+  {
+    "source_id": "TdomGR19a",
+    "output_header": "mitchell2026|TdomGR19a family=GR source=Mitchell_2026 original_id=TdomGR19a exact_sources=mitchell2026",
+    "sequence_sha256": "f40c0ce045c41f8bd44e3412c26c0d3f6664a69bd358394e14881accb4522d23"
+  },
+  {
+    "source_id": "TdomGR20",
+    "output_header": "mitchell2026|TdomGR20 family=GR source=Mitchell_2026 original_id=TdomGR20 exact_sources=mitchell2026",
+    "sequence_sha256": "88ce1e762bebde337b5f8b04a6697b5e31499f17965b6cb45fd814ff3af8fb4e"
+  },
+  {
+    "source_id": "TdomGR21b",
+    "output_header": "mitchell2026|TdomGR21b family=GR source=Mitchell_2026 original_id=TdomGR21b exact_sources=mitchell2026",
+    "sequence_sha256": "0c00a878aa7adb176a81ff9f27ecd53ec3d637a65503073561d2bb3edc836778"
+  },
+  {
+    "source_id": "TdomGR25a",
+    "output_header": "mitchell2026|TdomGR25a family=GR source=Mitchell_2026 original_id=TdomGR25a exact_sources=mitchell2026",
+    "sequence_sha256": "d01fd2e0d5f8813dcbd5fdabcddcedfd6d31ddfab1dbd1ecab5b8b4548cd113b"
+  },
+  {
+    "source_id": "TdomGR26",
+    "output_header": "mitchell2026|TdomGR26 family=GR source=Mitchell_2026 original_id=TdomGR26 exact_sources=mitchell2026",
+    "sequence_sha256": "7f5bbe1850921969aebb26c036825d05d558e4378299355946569b13066a9fc4"
+  },
+  {
+    "source_id": "TdomGR29",
+    "output_header": "mitchell2026|TdomGR29 family=GR source=Mitchell_2026 original_id=TdomGR29 exact_sources=mitchell2026",
+    "sequence_sha256": "a43f3078d33437f92c8f1e8c6b8bb9b02da464bb091d2e2dc6c5364416c4f1ee"
+  },
+  {
+    "source_id": "TdomGR2_NTE",
+    "output_header": "mitchell2026|TdomGR2_NTE family=GR source=Mitchell_2026 original_id=TdomGR2_NTE exact_sources=mitchell2026",
+    "sequence_sha256": "a21f6c59a431a0677c428499da73fd806aed7d16c1249e3a62d169d50133990b"
+  },
+  {
+    "source_id": "TdomGR3",
+    "output_header": "mitchell2026|TdomGR3 family=GR source=Mitchell_2026 original_id=TdomGR3 exact_sources=mitchell2026",
+    "sequence_sha256": "5945c2c65f9aad81145120627b4e059ec09e23553a023b4d4d0bc34b79447b2f"
+  },
+  {
+    "source_id": "TdomGR30",
+    "output_header": "mitchell2026|TdomGR30 family=GR source=Mitchell_2026 original_id=TdomGR30 exact_sources=mitchell2026",
+    "sequence_sha256": "4af049513232bd69f783728162b3f1a8fb741eeff70a58234551693c9d18a810"
+  },
+  {
+    "source_id": "TdomGR31a",
+    "output_header": "mitchell2026|TdomGR31a family=GR source=Mitchell_2026 original_id=TdomGR31a exact_sources=mitchell2026",
+    "sequence_sha256": "9c2aed32c0bd8cb3a66f3aedfc1508c131ccbae76a8ccac3a0c3d10c702a11fb"
+  },
+  {
+    "source_id": "TdomGR31b",
+    "output_header": "mitchell2026|TdomGR31b family=GR source=Mitchell_2026 original_id=TdomGR31b exact_sources=mitchell2026",
+    "sequence_sha256": "134195fe07e5a53db5891407b1c1d7caf5f684f3146dab3836823bac1d727dc4"
+  },
+  {
+    "source_id": "TdomGR33",
+    "output_header": "mitchell2026|TdomGR33 family=GR source=Mitchell_2026 original_id=TdomGR33 exact_sources=mitchell2026",
+    "sequence_sha256": "f22ef9ede3b6cf5225698d008a338d0ae7c80de72558e8a6534779fb515b91c5"
+  },
+  {
+    "source_id": "TdomGR34",
+    "output_header": "mitchell2026|TdomGR34 family=GR source=Mitchell_2026 original_id=TdomGR34 exact_sources=mitchell2026",
+    "sequence_sha256": "f9e10c0da49c152be8e882976d8199b0f82d9223a1904c6c43491176cb5fefcf"
+  },
+  {
+    "source_id": "TdomGR35",
+    "output_header": "mitchell2026|TdomGR35 family=GR source=Mitchell_2026 original_id=TdomGR35 exact_sources=mitchell2026",
+    "sequence_sha256": "3d390b5e3ca90b4a46cfb314a795000dbfee67a171ff219697b93736b5845d05"
+  },
+  {
+    "source_id": "TdomGR36",
+    "output_header": "mitchell2026|TdomGR36 family=GR source=Mitchell_2026 original_id=TdomGR36 exact_sources=mitchell2026",
+    "sequence_sha256": "22164ad6985e9fe24a82f0470c7e6bef9508c82126bf8922c48c889a0d62456a"
+  },
+  {
+    "source_id": "TdomGR39a",
+    "output_header": "mitchell2026|TdomGR39a family=GR source=Mitchell_2026 original_id=TdomGR39a exact_sources=mitchell2026",
+    "sequence_sha256": "8ed22c600be9332abab7e69a2502be99e27674c7d8184a9889d66c9dd53a5d62"
+  },
+  {
+    "source_id": "TdomGR4",
+    "output_header": "mitchell2026|TdomGR4 family=GR source=Mitchell_2026 original_id=TdomGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "ccecd8b81916ad60f645731a7c66318d725f8cb3c0a211f061592c52a5b3ce1c"
+  },
+  {
+    "source_id": "TdomGR40",
+    "output_header": "mitchell2026|TdomGR40 family=GR source=Mitchell_2026 original_id=TdomGR40 exact_sources=mitchell2026",
+    "sequence_sha256": "7c63cadc6621c479f04684090e30900a793d23084ace273b65dcbfb3036fe75c"
+  },
+  {
+    "source_id": "TdomGR41a",
+    "output_header": "mitchell2026|TdomGR41a family=GR source=Mitchell_2026 original_id=TdomGR41a exact_sources=mitchell2026",
+    "sequence_sha256": "74806d3b934bed00bae0d5599b36dec36b1f71ce140ca273c773684ff3d03b5f"
+  },
+  {
+    "source_id": "TdomGR42d",
+    "output_header": "mitchell2026|TdomGR42d family=GR source=Mitchell_2026 original_id=TdomGR42d exact_sources=mitchell2026",
+    "sequence_sha256": "61fe8d46a5af8e3055d290a25235d490b21f4db9ec74c7f43954daf7c15d75f1"
+  },
+  {
+    "source_id": "TdomGR44",
+    "output_header": "mitchell2026|TdomGR44 family=GR source=Mitchell_2026 original_id=TdomGR44 exact_sources=mitchell2026",
+    "sequence_sha256": "c4dea1ee6e9cced82e1e9be51a35bb8ff374160ca0eab730a55c5de431b7fbc7"
+  },
+  {
+    "source_id": "TdomGR46",
+    "output_header": "mitchell2026|TdomGR46 family=GR source=Mitchell_2026 original_id=TdomGR46 exact_sources=mitchell2026",
+    "sequence_sha256": "12cd3afb835ff857a5b30c692cec02caae10412f6fa8893f4b6c00b6e8098073"
+  },
+  {
+    "source_id": "TdomGR47",
+    "output_header": "mitchell2026|TdomGR47 family=GR source=Mitchell_2026 original_id=TdomGR47 exact_sources=mitchell2026",
+    "sequence_sha256": "aad371bf708e372f366136f5abe36947e02772a11c3580673b0a1d36a49d7420"
+  },
+  {
+    "source_id": "TdomGR48b",
+    "output_header": "mitchell2026|TdomGR48b family=GR source=Mitchell_2026 original_id=TdomGR48b exact_sources=mitchell2026",
+    "sequence_sha256": "9bd4a1e7320e5e9558a957fcb9acaeb5985f7e7a57ec65de8aad60e248a97006"
+  },
+  {
+    "source_id": "TdomGR49",
+    "output_header": "mitchell2026|TdomGR49 family=GR source=Mitchell_2026 original_id=TdomGR49 exact_sources=mitchell2026",
+    "sequence_sha256": "1ae63133b52e13cdd674063b58350c999cb7d113ad13e4314ee29d6d651c520d"
+  },
+  {
+    "source_id": "TdomGR5",
+    "output_header": "mitchell2026|TdomGR5 family=GR source=Mitchell_2026 original_id=TdomGR5 exact_sources=mitchell2026",
+    "sequence_sha256": "7a71c3cc16cc0f99a06c9bae2aa8474f9d01cd1485928b0f9e8fca82056fb7d5"
+  },
+  {
+    "source_id": "TdomGR50b",
+    "output_header": "mitchell2026|TdomGR50b family=GR source=Mitchell_2026 original_id=TdomGR50b exact_sources=mitchell2026",
+    "sequence_sha256": "ed72a150c88aa910a0dbaaad0b5153fb80119a1f7404c380170167048859950e"
+  },
+  {
+    "source_id": "TdomGR53c",
+    "output_header": "mitchell2026|TdomGR53c family=GR source=Mitchell_2026 original_id=TdomGR53c exact_sources=mitchell2026",
+    "sequence_sha256": "44ab16db81908176c098726a48af7a56f1e85d2bc650d404bcaf36d802f95d73"
+  },
+  {
+    "source_id": "TdomGR55a",
+    "output_header": "mitchell2026|TdomGR55a family=GR source=Mitchell_2026 original_id=TdomGR55a exact_sources=mitchell2026",
+    "sequence_sha256": "31d3919da28592eba0f7ba5860690ec28ee788951e380466e52c36f4e8827c3d"
+  },
+  {
+    "source_id": "TdomGR56",
+    "output_header": "mitchell2026|TdomGR56 family=GR source=Mitchell_2026 original_id=TdomGR56 exact_sources=mitchell2026",
+    "sequence_sha256": "c2c696bec6d7d0113ce644c15f08aab8ba4ab147b8e46c553874b0e3222d39be"
+  },
+  {
+    "source_id": "TdomGR57b",
+    "output_header": "mitchell2026|TdomGR57b family=GR source=Mitchell_2026 original_id=TdomGR57b exact_sources=mitchell2026",
+    "sequence_sha256": "98a78d7717262bed1cf4c8f32ba47e835c99247f9fd7ffbad7bf03331579ab99"
+  },
+  {
+    "source_id": "TdomGR58",
+    "output_header": "mitchell2026|TdomGR58 family=GR source=Mitchell_2026 original_id=TdomGR58 exact_sources=mitchell2026",
+    "sequence_sha256": "c97357792e778fbea77d1f5ce013dc1598f9b025d9d7881e49d1049ddf69100f"
+  },
+  {
+    "source_id": "TdomGR59",
+    "output_header": "mitchell2026|TdomGR59 family=GR source=Mitchell_2026 original_id=TdomGR59 exact_sources=mitchell2026",
+    "sequence_sha256": "caf2c3b8533227823235d2acbeb9fe269a0100b0d71ed493f1e1f73f7246d9a3"
+  },
+  {
+    "source_id": "TdomGR6",
+    "output_header": "mitchell2026|TdomGR6 family=GR source=Mitchell_2026 original_id=TdomGR6 exact_sources=mitchell2026",
+    "sequence_sha256": "a5d5b22f671fd76680eebafd41b307ed02e314b6ef9f61fbf68fa3eba1b5e3d5"
+  },
+  {
+    "source_id": "TdomGR60",
+    "output_header": "mitchell2026|TdomGR60 family=GR source=Mitchell_2026 original_id=TdomGR60 exact_sources=mitchell2026",
+    "sequence_sha256": "da2e41a8a6c1bd184a06cfac2b9a8f008b0a1c6f05496136c84335a095662b65"
+  },
+  {
+    "source_id": "TdomGR62",
+    "output_header": "mitchell2026|TdomGR62 family=GR source=Mitchell_2026 original_id=TdomGR62 exact_sources=mitchell2026",
+    "sequence_sha256": "522b8a3448ec103f1660605421c54d2f7f8231827b730b59b105c896fe4c2e0e"
+  },
+  {
+    "source_id": "TdomGR63",
+    "output_header": "mitchell2026|TdomGR63 family=GR source=Mitchell_2026 original_id=TdomGR63 exact_sources=mitchell2026",
+    "sequence_sha256": "7e9e25b8c14551b048be5139925e230ac76a4db54fd4a93b4c8f185d99ef1ee8"
+  },
+  {
+    "source_id": "TdomGR64b",
+    "output_header": "mitchell2026|TdomGR64b family=GR source=Mitchell_2026 original_id=TdomGR64b exact_sources=mitchell2026",
+    "sequence_sha256": "febf9a0b03013fa64b47d97fa0b503b08251999112d795a0b02c4ef6794e5871"
+  },
+  {
+    "source_id": "TdomGR65b",
+    "output_header": "mitchell2026|TdomGR65b family=GR source=Mitchell_2026 original_id=TdomGR65b exact_sources=mitchell2026",
+    "sequence_sha256": "918cb737854951e1fcb5b3d7950956b4b0c01cd858f639d308fd6e41b276889e"
+  },
+  {
+    "source_id": "TdomGR67a",
+    "output_header": "mitchell2026|TdomGR67a family=GR source=Mitchell_2026 original_id=TdomGR67a exact_sources=mitchell2026",
+    "sequence_sha256": "e447c0e643e30c77457a4aec0ebe23d1325beb3045d1915be15041a7ecd730ff"
+  },
+  {
+    "source_id": "TdomGR68",
+    "output_header": "mitchell2026|TdomGR68 family=GR source=Mitchell_2026 original_id=TdomGR68 exact_sources=mitchell2026",
+    "sequence_sha256": "d7e0b943a967374175c3815635f0e4e5704dc93688694da7b05d4a47170d133b"
+  },
+  {
+    "source_id": "TdomGR69",
+    "output_header": "mitchell2026|TdomGR69 family=GR source=Mitchell_2026 original_id=TdomGR69 exact_sources=mitchell2026",
+    "sequence_sha256": "c51e970e99b2b209cc1e0718c42e20bb5b17c4487f811a7512b7cee4491a09d9"
+  },
+  {
+    "source_id": "TdomGR7",
+    "output_header": "mitchell2026|TdomGR7 family=GR source=Mitchell_2026 original_id=TdomGR7 exact_sources=mitchell2026",
+    "sequence_sha256": "54a84df3d1c66b1b45484000644a59a6fd6e078b439ddf5f264cfebfcf6b4b91"
+  },
+  {
+    "source_id": "TdomGR73",
+    "output_header": "mitchell2026|TdomGR73 family=GR source=Mitchell_2026 original_id=TdomGR73 exact_sources=mitchell2026",
+    "sequence_sha256": "0ea9cc8099ebce46cee35b66ffa163142e64fc22afd3171e78588276c96172fc"
+  },
+  {
+    "source_id": "TdomGR77d",
+    "output_header": "mitchell2026|TdomGR77d family=GR source=Mitchell_2026 original_id=TdomGR77d exact_sources=mitchell2026",
+    "sequence_sha256": "13e59b0b702b168eec8704a18abf5f58ed8c757787ef78daea172eb3225527d3"
+  },
+  {
+    "source_id": "TdomGR78e",
+    "output_header": "mitchell2026|TdomGR78e family=GR source=Mitchell_2026 original_id=TdomGR78e exact_sources=mitchell2026",
+    "sequence_sha256": "0223f1017c8bdfd09e5bf87ec4a4fa17de725bd56a0632becd7186864ca21a00"
+  },
+  {
+    "source_id": "TdomGR80b",
+    "output_header": "mitchell2026|TdomGR80b family=GR source=Mitchell_2026 original_id=TdomGR80b exact_sources=mitchell2026",
+    "sequence_sha256": "6a9046864ad5993945a0de8ecb1f917a83c6e3100b0477e4f89245c172941871"
+  },
+  {
+    "source_id": "TdomGR80c",
+    "output_header": "mitchell2026|TdomGR80c family=GR source=Mitchell_2026 original_id=TdomGR80c exact_sources=mitchell2026",
+    "sequence_sha256": "593a662dd240aefc1891d9874927fed0ebbd7d5a2e1a1cfa2d88fe7bdfc4d560"
+  },
+  {
+    "source_id": "TdomGR84",
+    "output_header": "mitchell2026|TdomGR84 family=GR source=Mitchell_2026 original_id=TdomGR84 exact_sources=mitchell2026",
+    "sequence_sha256": "0deec4bff23e163a93155732c0f42ad14657ad8e169ea0371b918a5158492fb4"
+  },
+  {
+    "source_id": "TdomGR85",
+    "output_header": "mitchell2026|TdomGR85 family=GR source=Mitchell_2026 original_id=TdomGR85 exact_sources=mitchell2026",
+    "sequence_sha256": "0ebc2c8bdbefc34c0b129afe2fab513ee14de38dbf1ee3434825c494200da571"
+  },
+  {
+    "source_id": "TdomGR88a",
+    "output_header": "mitchell2026|TdomGR88a family=GR source=Mitchell_2026 original_id=TdomGR88a exact_sources=mitchell2026",
+    "sequence_sha256": "0ae2b1f6ae801aca1dabd8c86280fc56b8fb26e3160a24967b4d1b065525eb9e"
+  },
+  {
+    "source_id": "TdomGR92b",
+    "output_header": "mitchell2026|TdomGR92b family=GR source=Mitchell_2026 original_id=TdomGR92b exact_sources=mitchell2026",
+    "sequence_sha256": "15dc97a7d2b6139f5b51cfa75f5c9814c49382c0dca45466dfb21885d2cafeb1"
+  },
+  {
+    "source_id": "TdomGR94",
+    "output_header": "mitchell2026|TdomGR94 family=GR source=Mitchell_2026 original_id=TdomGR94 exact_sources=mitchell2026",
+    "sequence_sha256": "0b559a815f5f0c7228e478b5293558280fa29ba0d8209e8199d65c096b363d6b"
+  },
+  {
+    "source_id": "TdomGR95a",
+    "output_header": "mitchell2026|TdomGR95a family=GR source=Mitchell_2026 original_id=TdomGR95a exact_sources=mitchell2026",
+    "sequence_sha256": "11b3ed0d97f649d02c57e098ed17956d819b5680550cb936cc4acfcb74bc0f08"
+  },
+  {
+    "source_id": "TdomGR95b",
+    "output_header": "mitchell2026|TdomGR95b family=GR source=Mitchell_2026 original_id=TdomGR95b exact_sources=mitchell2026",
+    "sequence_sha256": "927f61785804d8cb196d28627a85e4a627b6b6b4674b40fe10c607a10489ccb5"
+  },
+  {
+    "source_id": "TdomGR96b",
+    "output_header": "mitchell2026|TdomGR96b family=GR source=Mitchell_2026 original_id=TdomGR96b exact_sources=mitchell2026",
+    "sequence_sha256": "ebf2affd17ffb28c30771409ece3e50b8a31796c611386dd4997413cf5a88c97"
+  },
+  {
+    "source_id": "TdomGR98a",
+    "output_header": "mitchell2026|TdomGR98a family=GR source=Mitchell_2026 original_id=TdomGR98a exact_sources=mitchell2026",
+    "sequence_sha256": "89b11cc6890d342f21f5e0ce6ff2c068df2c72cd508b5f4cf3a3d5fd6f4f5a6d"
+  },
+  {
+    "source_id": "TdomGR98d",
+    "output_header": "mitchell2026|TdomGR98d family=GR source=Mitchell_2026 original_id=TdomGR98d exact_sources=mitchell2026",
+    "sequence_sha256": "88d39da09d6b52a1b3fdfbb67d05c845f0cef708354a79ed2e4614add67690a2"
+  },
+  {
+    "source_id": "TpopGR1b",
+    "output_header": "mitchell2026|TpopGR1b family=GR source=Mitchell_2026 original_id=TpopGR1b exact_sources=mitchell2026",
+    "sequence_sha256": "d645a82813b8acaed23e57566c2b3ec5b61dd7d33d75e8885b7d9e5009e41326"
+  },
+  {
+    "source_id": "TpopGR2b",
+    "output_header": "mitchell2026|TpopGR2b family=GR source=Mitchell_2026 original_id=TpopGR2b exact_sources=mitchell2026",
+    "sequence_sha256": "b1e96207235eeba5d5158ad9018ce8ce900f4f87a83805d516950eeea4f94061"
+  },
+  {
+    "source_id": "TpopGR3",
+    "output_header": "mitchell2026|TpopGR3 family=GR source=Mitchell_2026 original_id=TpopGR3 exact_sources=mitchell2026",
+    "sequence_sha256": "2cead14fd929a0c120a8027e21999ec9575cb08ca4565a583f959211b0473e59"
+  },
+  {
+    "source_id": "TpopGR5",
+    "output_header": "mitchell2026|TpopGR5 family=GR source=Mitchell_2026 original_id=TpopGR5 exact_sources=mitchell2026",
+    "sequence_sha256": "448f026d8b1ee17cb42092e8ab91d3ad21ef0add8b09cb8198d22719b9e11502"
+  },
+  {
+    "source_id": "TpopGR6",
+    "output_header": "mitchell2026|TpopGR6 family=GR source=Mitchell_2026 original_id=TpopGR6 exact_sources=mitchell2026",
+    "sequence_sha256": "e4a2688afe4b2af776f4885c021279db8eb451ea6becaaae560208d51ddb1e1a"
+  },
+  {
+    "source_id": "TpopGR8",
+    "output_header": "mitchell2026|TpopGR8 family=GR source=Mitchell_2026 original_id=TpopGR8 exact_sources=mitchell2026",
+    "sequence_sha256": "7988f53014af61aac8b7749aff001b474f0e3888dca12b447d2f42652c5a748d"
+  },
+  {
+    "source_id": "TpopGR9",
+    "output_header": "mitchell2026|TpopGR9 family=GR source=Mitchell_2026 original_id=TpopGR9 exact_sources=mitchell2026",
+    "sequence_sha256": "50740b297cefd31d25fb703f13d92406ad7e9deafb68eeb920bdf938c5c17673"
+  },
+  {
+    "source_id": "XcamGR4",
+    "output_header": "mitchell2026|XcamGR4 family=GR source=Mitchell_2026 original_id=XcamGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "f2123ad9ff7c6797fb20711a2854b3567f5c0f1000a699529cf7f3f46f44300a"
+  },
+  {
+    "source_id": "XxanGR4",
+    "output_header": "mitchell2026|XxanGR4 family=GR source=Mitchell_2026 original_id=XxanGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "ee50bd67785eca848bf181411bedd32763f69bb9f8ab9af712ddcf3698d58e3d"
+  },
+  {
+    "source_id": "ZnevGR10",
+    "output_header": "mitchell2026|ZnevGR10 family=GR source=Mitchell_2026 original_id=ZnevGR10 exact_sources=mitchell2026",
+    "sequence_sha256": "d14293731c6b4a9e74f2c5d674739e57215bb3d0d13bb63d3c2ee116e73e6a16"
+  },
+  {
+    "source_id": "ZnevGR11",
+    "output_header": "mitchell2026|ZnevGR11 family=GR source=Mitchell_2026 original_id=ZnevGR11 exact_sources=mitchell2026",
+    "sequence_sha256": "f3d1cb036c316a4df5b5782c46596cf1d4b2c48341c866b73b8bb80eb9081952"
+  },
+  {
+    "source_id": "ZnevGR12",
+    "output_header": "mitchell2026|ZnevGR12 family=GR source=Mitchell_2026 original_id=ZnevGR12 exact_sources=mitchell2026",
+    "sequence_sha256": "d37d82933d1950037739e576266eb1e487fe5804e1f961d5c9e5359c3dde65de"
+  },
+  {
+    "source_id": "ZnevGR13",
+    "output_header": "mitchell2026|ZnevGR13 family=GR source=Mitchell_2026 original_id=ZnevGR13 exact_sources=mitchell2026",
+    "sequence_sha256": "dad703df7259b6477b89b096c5df6602b053ed32e5b4c44ace0a21d7e3dc0a2c"
+  },
+  {
+    "source_id": "ZnevGR14",
+    "output_header": "mitchell2026|ZnevGR14 family=GR source=Mitchell_2026 original_id=ZnevGR14 exact_sources=mitchell2026",
+    "sequence_sha256": "b646820d3f3460ceb47578e4d39d6a37c57aeeffdb5e67c8faa6df02fd3e96d9"
+  },
+  {
+    "source_id": "ZnevGR15",
+    "output_header": "mitchell2026|ZnevGR15 family=GR source=Mitchell_2026 original_id=ZnevGR15 exact_sources=mitchell2026",
+    "sequence_sha256": "3f932a9651adafe37a7fd0a0000853e71153ad93e6d0054e35deb0ba24efced5"
+  },
+  {
+    "source_id": "ZnevGR16",
+    "output_header": "mitchell2026|ZnevGR16 family=GR source=Mitchell_2026 original_id=ZnevGR16 exact_sources=mitchell2026",
+    "sequence_sha256": "a84f2d6d59bf20e72a4df8c59e05ee9645a66bd0151ce170f10beb51829b9dcd"
+  },
+  {
+    "source_id": "ZnevGR18",
+    "output_header": "mitchell2026|ZnevGR18 family=GR source=Mitchell_2026 original_id=ZnevGR18 exact_sources=mitchell2026",
+    "sequence_sha256": "a30602b6ac2ba7c9391303309867587b2e9bf59c950a58f7d17e86598f76f7c9"
+  },
+  {
+    "source_id": "ZnevGR19",
+    "output_header": "mitchell2026|ZnevGR19 family=GR source=Mitchell_2026 original_id=ZnevGR19 exact_sources=mitchell2026",
+    "sequence_sha256": "29c0a06e99894d0d89453576885da173b62df5258997989a87cf36391f5d3b46"
+  },
+  {
+    "source_id": "ZnevGR2",
+    "output_header": "mitchell2026|ZnevGR2 family=GR source=Mitchell_2026 original_id=ZnevGR2 exact_sources=mitchell2026",
+    "sequence_sha256": "a979078a37d8d9148e63934dfc90aab4f9b08ab805979859012915ad0f009b27"
+  },
+  {
+    "source_id": "ZnevGR22",
+    "output_header": "mitchell2026|ZnevGR22 family=GR source=Mitchell_2026 original_id=ZnevGR22 exact_sources=mitchell2026",
+    "sequence_sha256": "4e289ece05e2ece3c7490ace674af3ef8fd0dfbdced6a245b6595b84857d3d93"
+  },
+  {
+    "source_id": "ZnevGR25",
+    "output_header": "mitchell2026|ZnevGR25 family=GR source=Mitchell_2026 original_id=ZnevGR25 exact_sources=mitchell2026",
+    "sequence_sha256": "f3d58e58abf11488330d359973d45579be0192f7d963312936d6bf29188b58a1"
+  },
+  {
+    "source_id": "ZnevGR29",
+    "output_header": "mitchell2026|ZnevGR29 family=GR source=Mitchell_2026 original_id=ZnevGR29 exact_sources=mitchell2026",
+    "sequence_sha256": "7562f519ad32f6530af923aac87d6ad9501051a4a4ecdf37b39eceb863fbc944"
+  },
+  {
+    "source_id": "ZnevGR3",
+    "output_header": "mitchell2026|ZnevGR3 family=GR source=Mitchell_2026 original_id=ZnevGR3 exact_sources=mitchell2026",
+    "sequence_sha256": "85471ac574fd7220e42d5b3226ab36190f454022b3927943536a983250d0f5ca"
+  },
+  {
+    "source_id": "ZnevGR30",
+    "output_header": "mitchell2026|ZnevGR30 family=GR source=Mitchell_2026 original_id=ZnevGR30 exact_sources=mitchell2026",
+    "sequence_sha256": "3c3efce9fbcf230e1a258e85de883e597db222b07eb4de717faee4d8b2869692"
+  },
+  {
+    "source_id": "ZnevGR32",
+    "output_header": "mitchell2026|ZnevGR32 family=GR source=Mitchell_2026 original_id=ZnevGR32 exact_sources=mitchell2026",
+    "sequence_sha256": "d389de96ef8751cf19342e13fe697da84a05ca0e4741f87f72e5da66833d6c4d"
+  },
+  {
+    "source_id": "ZnevGR34",
+    "output_header": "mitchell2026|ZnevGR34 family=GR source=Mitchell_2026 original_id=ZnevGR34 exact_sources=mitchell2026",
+    "sequence_sha256": "a1601f076cf72f303fd39bcb998cb90f9c1d0e9d9147fc4de47663b4a93fb9b3"
+  },
+  {
+    "source_id": "ZnevGR35a",
+    "output_header": "mitchell2026|ZnevGR35a family=GR source=Mitchell_2026 original_id=ZnevGR35a exact_sources=mitchell2026",
+    "sequence_sha256": "5fb8083209adb8f72579b37c104975aa3c6f74ece88e68fed27c087a986b5173"
+  },
+  {
+    "source_id": "ZnevGR36",
+    "output_header": "mitchell2026|ZnevGR36 family=GR source=Mitchell_2026 original_id=ZnevGR36 exact_sources=mitchell2026",
+    "sequence_sha256": "240d860aeb1070ffe50fd11cb1481fc20e4f82b3755afad8a1f0ebf1ce89d769"
+  },
+  {
+    "source_id": "ZnevGR37",
+    "output_header": "mitchell2026|ZnevGR37 family=GR source=Mitchell_2026 original_id=ZnevGR37 exact_sources=mitchell2026",
+    "sequence_sha256": "852df28f5d8cfb54dadc3de5f60ab9e9f4863b695ae6bfd74e7bb5810c3d5972"
+  },
+  {
+    "source_id": "ZnevGR38",
+    "output_header": "mitchell2026|ZnevGR38 family=GR source=Mitchell_2026 original_id=ZnevGR38 exact_sources=mitchell2026",
+    "sequence_sha256": "d3b0552bfa49885996eafb2c181c49db9c91105f41790dad4839362091d96f8e"
+  },
+  {
+    "source_id": "ZnevGR4",
+    "output_header": "mitchell2026|ZnevGR4 family=GR source=Mitchell_2026 original_id=ZnevGR4 exact_sources=mitchell2026",
+    "sequence_sha256": "efabbcbbfe1d5ab838774cc72922979cf72280b587380e4d2f97c370d594423c"
+  },
+  {
+    "source_id": "ZnevGR40",
+    "output_header": "mitchell2026|ZnevGR40 family=GR source=Mitchell_2026 original_id=ZnevGR40 exact_sources=mitchell2026",
+    "sequence_sha256": "ceea5f4d0f5e253b8f73f2c82cf16a20053e8df1756e5063e7ecf5b11494ddba"
+  },
+  {
+    "source_id": "ZnevGR41",
+    "output_header": "mitchell2026|ZnevGR41 family=GR source=Mitchell_2026 original_id=ZnevGR41 exact_sources=mitchell2026",
+    "sequence_sha256": "cd35ce3cf86a1f4120e611031521da1df9b0e6093e0ceb9b24107980e490180f"
+  },
+  {
+    "source_id": "ZnevGR42",
+    "output_header": "mitchell2026|ZnevGR42 family=GR source=Mitchell_2026 original_id=ZnevGR42 exact_sources=mitchell2026",
+    "sequence_sha256": "c10567fb6560d75e54608e2d722e4c34aa064f89e59c5b02bbd81fa05ed7936a"
+  },
+  {
+    "source_id": "ZnevGR43c",
+    "output_header": "mitchell2026|ZnevGR43c family=GR source=Mitchell_2026 original_id=ZnevGR43c exact_sources=mitchell2026",
+    "sequence_sha256": "4cd55cce1ed5d9d010cd3789969a46eeeb67b68f6243ba401abb922d3bb8f276"
+  },
+  {
+    "source_id": "ZnevGR44",
+    "output_header": "mitchell2026|ZnevGR44 family=GR source=Mitchell_2026 original_id=ZnevGR44 exact_sources=mitchell2026",
+    "sequence_sha256": "bb4ba21109d87ca2253dc26341048e5fdcc5877b23d4a3c0e4188adde987d3a1"
+  },
+  {
+    "source_id": "ZnevGR46",
+    "output_header": "mitchell2026|ZnevGR46 family=GR source=Mitchell_2026 original_id=ZnevGR46 exact_sources=mitchell2026",
+    "sequence_sha256": "142c550db25ef2b63bcc21696fce8d7b0c54d01d67ee226c6552587b3e9bf3d8"
+  },
+  {
+    "source_id": "ZnevGR47",
+    "output_header": "mitchell2026|ZnevGR47 family=GR source=Mitchell_2026 original_id=ZnevGR47 exact_sources=mitchell2026",
+    "sequence_sha256": "6044f059943452772e9d4f8692284cc4f011d0ed552455de635331662e4cfe2f"
+  },
+  {
+    "source_id": "ZnevGR48",
+    "output_header": "mitchell2026|ZnevGR48 family=GR source=Mitchell_2026 original_id=ZnevGR48 exact_sources=mitchell2026",
+    "sequence_sha256": "478a1cbda2d25e07e86c00e7b0186f9fb5a1455117193b945722b904e498f867"
+  },
+  {
+    "source_id": "ZnevGR49",
+    "output_header": "mitchell2026|ZnevGR49 family=GR source=Mitchell_2026 original_id=ZnevGR49 exact_sources=mitchell2026",
+    "sequence_sha256": "e60124f9beed9623b2ef3a84556ce156efeca4688b53660dbe2c9f5400360bdd"
+  },
+  {
+    "source_id": "ZnevGR50",
+    "output_header": "mitchell2026|ZnevGR50 family=GR source=Mitchell_2026 original_id=ZnevGR50 exact_sources=mitchell2026",
+    "sequence_sha256": "6a49d818e83c0d2a322af63ca04e987ac2110f0ce7e11ce61528b15eb9bb28a0"
+  },
+  {
+    "source_id": "ZnevGR52",
+    "output_header": "mitchell2026|ZnevGR52 family=GR source=Mitchell_2026 original_id=ZnevGR52 exact_sources=mitchell2026",
+    "sequence_sha256": "67d99da4ba2ca523ed0bcbce18c5b91d95447917d2f0e3ff9d9a82a83fab9c72"
+  },
+  {
+    "source_id": "ZnevGR53",
+    "output_header": "mitchell2026|ZnevGR53 family=GR source=Mitchell_2026 original_id=ZnevGR53 exact_sources=mitchell2026",
+    "sequence_sha256": "b2c0cc1ff75c9f55c6c06b643b1aa5e140d1babf6752525d96b379d1dd12c50b"
+  },
+  {
+    "source_id": "ZnevGR55",
+    "output_header": "mitchell2026|ZnevGR55 family=GR source=Mitchell_2026 original_id=ZnevGR55 exact_sources=mitchell2026",
+    "sequence_sha256": "e5872d2bbdaff77ba5721b982e01788970f355efa3d1f4fcf96d0628e3237155"
+  },
+  {
+    "source_id": "ZnevGR57",
+    "output_header": "mitchell2026|ZnevGR57 family=GR source=Mitchell_2026 original_id=ZnevGR57 exact_sources=mitchell2026",
+    "sequence_sha256": "2d83b5577deae43d986cae6e931f9de0fdcfdbe4f4905b86a6f811be2e7dde1f"
+  },
+  {
+    "source_id": "ZnevGR59",
+    "output_header": "mitchell2026|ZnevGR59 family=GR source=Mitchell_2026 original_id=ZnevGR59 exact_sources=mitchell2026",
+    "sequence_sha256": "4e804edd8f9d7ddc3bd0d6ee3c0b91e2d337cf3050866f6bd41542da628a6386"
+  },
+  {
+    "source_id": "ZnevGR6",
+    "output_header": "mitchell2026|ZnevGR6 family=GR source=Mitchell_2026 original_id=ZnevGR6 exact_sources=mitchell2026",
+    "sequence_sha256": "78f7dbec107e02652dc18bd17c9f55853033e47898100cd4f76273188d7699e1"
+  },
+  {
+    "source_id": "ZnevGR60",
+    "output_header": "mitchell2026|ZnevGR60 family=GR source=Mitchell_2026 original_id=ZnevGR60 exact_sources=mitchell2026",
+    "sequence_sha256": "789524796b1cb3eae9dca6673c40b0d17b33c9b1a2ef9190b28a9c256b75a413"
+  },
+  {
+    "source_id": "ZnevGR61",
+    "output_header": "mitchell2026|ZnevGR61 family=GR source=Mitchell_2026 original_id=ZnevGR61 exact_sources=mitchell2026",
+    "sequence_sha256": "13f876f0281e5966a765b20a877ebc3a3b10cf2ba932ea61abbb7b6e33e92ca5"
+  },
+  {
+    "source_id": "ZnevGR62",
+    "output_header": "mitchell2026|ZnevGR62 family=GR source=Mitchell_2026 original_id=ZnevGR62 exact_sources=mitchell2026",
+    "sequence_sha256": "dfa2470b23f97bb9792496cef63d13648507b0704e7ef3a6947dc659c74838d6"
+  },
+  {
+    "source_id": "ZnevGR63",
+    "output_header": "mitchell2026|ZnevGR63 family=GR source=Mitchell_2026 original_id=ZnevGR63 exact_sources=mitchell2026",
+    "sequence_sha256": "803c1d58a539e743ecb825ac0da8192611d7274c5ca8a9d355dd445bb677c062"
+  },
+  {
+    "source_id": "ZnevGR64",
+    "output_header": "mitchell2026|ZnevGR64 family=GR source=Mitchell_2026 original_id=ZnevGR64 exact_sources=mitchell2026",
+    "sequence_sha256": "2e7cdd9b51ba520b95426b474a5c83d59c9cac1803798d85ff2146f5d2bfc4b5"
+  },
+  {
+    "source_id": "ZnevGR65",
+    "output_header": "mitchell2026|ZnevGR65 family=GR source=Mitchell_2026 original_id=ZnevGR65 exact_sources=mitchell2026",
+    "sequence_sha256": "cd6bc7916843e1ff17b25436f42e0550ed4992f7e5f8f402abeaf915d41a73ee"
+  },
+  {
+    "source_id": "ZnevGR66",
+    "output_header": "mitchell2026|ZnevGR66 family=GR source=Mitchell_2026 original_id=ZnevGR66 exact_sources=mitchell2026",
+    "sequence_sha256": "2ccb0204b8987d24ec9a6b3f6f9aa1c825647a1c4d5e8e8b79b59d4dc45a0a5c"
+  },
+  {
+    "source_id": "ZnevGR67",
+    "output_header": "mitchell2026|ZnevGR67 family=GR source=Mitchell_2026 original_id=ZnevGR67 exact_sources=mitchell2026",
+    "sequence_sha256": "48c776bc9d83bfe520111c85d077a8b8041cb9774fcdb8f12e691207d0067c9d"
+  },
+  {
+    "source_id": "ZnevGR68",
+    "output_header": "mitchell2026|ZnevGR68 family=GR source=Mitchell_2026 original_id=ZnevGR68 exact_sources=mitchell2026",
+    "sequence_sha256": "08d8d97b3cdf4a75beb7052b94ed07523059e1aaff7711c29744b3ea6fc0592c"
+  },
+  {
+    "source_id": "ZnevGR69",
+    "output_header": "mitchell2026|ZnevGR69 family=GR source=Mitchell_2026 original_id=ZnevGR69 exact_sources=mitchell2026",
+    "sequence_sha256": "a6dea8eb1491d1cdc176674bea7483f56fc046266242195a8a7830917853afb0"
+  },
+  {
+    "source_id": "ZnevGR7",
+    "output_header": "mitchell2026|ZnevGR7 family=GR source=Mitchell_2026 original_id=ZnevGR7 exact_sources=mitchell2026",
+    "sequence_sha256": "9200a46bb9093a7425e46cbbc5ca77b7e90e944078305191215d07ff7500e4ed"
+  },
+  {
+    "source_id": "ZnevGR71",
+    "output_header": "mitchell2026|ZnevGR71 family=GR source=Mitchell_2026 original_id=ZnevGR71 exact_sources=mitchell2026",
+    "sequence_sha256": "ab311be57332aee066b6306c426b875544fae18e886d6651f8e0756bede4750a"
+  },
+  {
+    "source_id": "ZnevGR72",
+    "output_header": "mitchell2026|ZnevGR72 family=GR source=Mitchell_2026 original_id=ZnevGR72 exact_sources=mitchell2026",
+    "sequence_sha256": "a3c46ce1af934400a77bbdf8974443aa877de48412c91f0b73bb0d8059257a0e"
+  },
+  {
+    "source_id": "ZnevGR73",
+    "output_header": "mitchell2026|ZnevGR73 family=GR source=Mitchell_2026 original_id=ZnevGR73 exact_sources=mitchell2026",
+    "sequence_sha256": "db2cec51325602b26a7895a1ebbd9b7369c87c321aa9df16a9240e8f0c72baea"
+  },
+  {
+    "source_id": "ZnevGR74",
+    "output_header": "mitchell2026|ZnevGR74 family=GR source=Mitchell_2026 original_id=ZnevGR74 exact_sources=mitchell2026",
+    "sequence_sha256": "5020fd5f450b7a109220354afae54c9ba08d46dd864d75a754be1e508ba572d9"
+  },
+  {
+    "source_id": "ZnevGR78",
+    "output_header": "mitchell2026|ZnevGR78 family=GR source=Mitchell_2026 original_id=ZnevGR78 exact_sources=mitchell2026",
+    "sequence_sha256": "8ce7adb13af814d6952cf8caf421c29d8a84059d0b6865eb14495133f3f5b912"
+  },
+  {
+    "source_id": "ZnevGR8",
+    "output_header": "mitchell2026|ZnevGR8 family=GR source=Mitchell_2026 original_id=ZnevGR8 exact_sources=mitchell2026",
+    "sequence_sha256": "2e27f641fd382678d64d0f5ad0f2f191c9bfb01387e25dc42e8d74c486d1f06c"
+  },
+  {
+    "source_id": "ZnevGR80",
+    "output_header": "mitchell2026|ZnevGR80 family=GR source=Mitchell_2026 original_id=ZnevGR80 exact_sources=mitchell2026",
+    "sequence_sha256": "a3675a12a250a4861941fe79b71d816b7f55c6b7ce7c3766f15a786dcf29db71"
+  },
+  {
+    "source_id": "ZnevGR83",
+    "output_header": "mitchell2026|ZnevGR83 family=GR source=Mitchell_2026 original_id=ZnevGR83 exact_sources=mitchell2026",
+    "sequence_sha256": "e3cdef64fa3cba808bd3ce4360dd7fa04b39b2cb995a43ebe5eed135e0b4e2d7"
+  },
+  {
+    "source_id": "ZnevGR85",
+    "output_header": "mitchell2026|ZnevGR85 family=GR source=Mitchell_2026 original_id=ZnevGR85 exact_sources=mitchell2026",
+    "sequence_sha256": "10a0d248122266e1d34d1bf4e66f8f97925aeb7b65d7c56c25d8e07e471b2a0a"
+  },
+  {
+    "source_id": "ZnevGR86",
+    "output_header": "mitchell2026|ZnevGR86 family=GR source=Mitchell_2026 original_id=ZnevGR86 exact_sources=mitchell2026",
+    "sequence_sha256": "d20fa8a051bbe26439ab4e16e33db747ea52cabcd5177115aa72b362b87d462c"
+  },
+  {
+    "source_id": "ZnevGR87",
+    "output_header": "mitchell2026|ZnevGR87 family=GR source=Mitchell_2026 original_id=ZnevGR87 exact_sources=mitchell2026",
+    "sequence_sha256": "6edf82186c45b8c8352cb1252ef7c0e249754592de6503a64efbd5f757af721f"
+  },
+  {
+    "source_id": "ZnevGR89_NEW",
+    "output_header": "mitchell2026|ZnevGR89_NEW family=GR source=Mitchell_2026 original_id=ZnevGR89_NEW exact_sources=mitchell2026",
+    "sequence_sha256": "719ae166afedb6a0fe89b22ab4ba0d7a9c0b30130d5a2d9bb2bc8fb87cd105bb"
+  },
+  {
+    "source_id": "ZnevGR9",
+    "output_header": "mitchell2026|ZnevGR9 family=GR source=Mitchell_2026 original_id=ZnevGR9 exact_sources=mitchell2026",
+    "sequence_sha256": "e7d4e796315818ead00d7df0f379cb824839dabd7c905f018eac5c3add25724d"
+  }
+]

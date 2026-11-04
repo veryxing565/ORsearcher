@@ -1,0 +1,9 @@
+include README.md LICENSE CITATION.cff CONTRIBUTING.md CHANGELOG.md environment.yml
+recursive-include examples *.fasta
+recursive-include docs *.md
+recursive-include tests *.py
+recursive-include src/orsearcher/data/defaults *
+recursive-include tools *.py
+recursive-include scripts *.py
+include src/orsearcher/tree_qc.R
+global-exclude __pycache__ *.py[cod] *.partial

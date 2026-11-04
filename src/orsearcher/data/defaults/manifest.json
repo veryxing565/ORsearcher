@@ -1,0 +1,205 @@
+{
+  "schema": "orsearcher-reference-panel-v2",
+  "panel_id": "curated-or-v1-uniprotkb-gr-2026_03-pfam-2.3.0",
+  "files": {
+    "OR.faa": {
+      "records": 3309,
+      "bytes": 2177804,
+      "sha256": "640e2a63a61e1a79f6c9b57e80354a3ab67acdb9bbde8cd7372ad01b2ffaf837",
+      "role": "Curated literature-derived OR discovery and competition",
+      "source": "OR reference database v1.0.0 and OR_sources.tsv",
+      "license": "Source-specific terms and redistribution permission",
+      "orders": {
+        "Archaeognatha": 5,
+        "Blattodea": 179,
+        "Coleoptera": 530,
+        "Diptera": 483,
+        "Ephemeroptera": 69,
+        "Hemiptera": 244,
+        "Hymenoptera": 861,
+        "Lepidoptera": 334,
+        "Odonata": 9,
+        "Orthoptera": 390,
+        "Phasmatodea": 38,
+        "Thysanoptera": 89,
+        "Trichoptera": 37,
+        "Zygentoma": 41
+      }
+    },
+    "complete_OR.faa": {
+      "records": 1373,
+      "bytes": 925666,
+      "sha256": "91a974d00d45373b4a2d230b33d55ce3134e7c8a9340a974c93891b197bab927",
+      "role": "Original full-length template subset of OR.faa",
+      "source": "OR reference database v1.0.0 and OR_sources.tsv",
+      "license": "Source-specific terms and redistribution permission",
+      "qualification": "Author-reported complete or curator-labeled nonfragment/nonpseudogene, 250-650 aa, no ambiguous residues or active curation warnings."
+    },
+    "GR.faa": {
+      "license": "CC-BY-4.0",
+      "attribution": "UniProt Consortium",
+      "terms": "https://www.uniprot.org/help/license",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "records": 1530,
+      "orders": {
+        "Diptera": 250,
+        "Hymenoptera": 250,
+        "Hemiptera": 250,
+        "Blattodea": 250,
+        "Coleoptera": 250,
+        "Lepidoptera": 250,
+        "Odonata": 28,
+        "Orthoptera": 2
+      },
+      "role": "GR protein reference",
+      "modification": "Name and HMM selected, amino-acid filtered, sequence deduplicated, capped per taxon and order, and reheadered.",
+      "bytes": 765838,
+      "sha256": "6c1d73dbe6934f43e85f1e7b451a8020f65f414b90730356068ef50801b0b248"
+    },
+    "OR.hmm": {
+      "records": 1,
+      "bytes": 146737,
+      "sha256": "3be054a27799c1b2f8b3de81d8237cd94207090669e56ce29347d4c807dd73ac",
+      "role": "OR profile",
+      "accession": "PF02949.26",
+      "license": "CC0-1.0",
+      "source": "https://www.ebi.ac.uk/interpro/api/entry/pfam/PF02949?annotation=hmm",
+      "redistribution": "allowed under CC0"
+    },
+    "GR_1.hmm": {
+      "records": 1,
+      "bytes": 173248,
+      "sha256": "444f378f07612a9d886e450d3b6263ac842c2c979182266c7731adc4eadbd578",
+      "role": "GR profile",
+      "accession": "PF08395.18",
+      "license": "CC0-1.0",
+      "source": "https://www.ebi.ac.uk/interpro/api/entry/pfam/PF08395?annotation=hmm",
+      "redistribution": "allowed under CC0"
+    },
+    "GR_2.hmm": {
+      "records": 1,
+      "bytes": 191839,
+      "sha256": "e5abbe0cecc15ff984ed28e723ef960dad53f7cf3cb6b3da748c8e8defbf4fda",
+      "role": "Sugar GR profile",
+      "accession": "PF06151.19",
+      "license": "CC0-1.0",
+      "source": "https://www.ebi.ac.uk/interpro/api/entry/pfam/PF06151?annotation=hmm",
+      "redistribution": "allowed under CC0"
+    },
+    "background.faa": {
+      "records": 7739,
+      "bytes": 4887103,
+      "sha256": "8713de84a5b3450a06d3d3cc50b2426cb7f6024c580be12da0bf8dfa13faab3f",
+      "role": "Protein-only non-OR/non-GR competition, never genome discovery",
+      "license": "CC-BY-4.0",
+      "source": "https://rest.uniprot.org/uniprotkb/stream?query=reviewed%3Atrue+AND+taxonomy_id%3A50557&format=tsv&fields=accession%2Cid%2Cprotein_name%2Cgene_names%2Cxref_pfam%2Csequence%2Corganism_name",
+      "attribution": "UniProt Consortium; https://doi.org/10.1093/nar/gkaf394",
+      "derivation": "Filtered reviewed insect proteins excluding OR/GR names and Pfam terms, positive-reference identical sequences and OR/GR-profile-supported sequences",
+      "redistribution": "allowed with attribution, source/license link and modification notice; other rights may apply"
+    }
+  },
+  "uniprot_queries": [
+    {
+      "family": "GR",
+      "order": "Diptera",
+      "file": "GR_Diptera.tsv",
+      "source_url": "https://rest.uniprot.org/uniprotkb/search?query=taxonomy_id%3A7147+AND+%28protein_name%3A%22gustatory+receptor%22+OR+protein_name%3A%22taste+receptor%22%29+AND+length%3A%5B100+TO+700%5D&format=tsv&size=500&fields=accession%2Cprotein_name%2Corganism_name%2Corganism_id%2Clength%2Csequence%2Creviewed",
+      "downloaded": 500,
+      "uniprot_release": "2026_03",
+      "total_matches": "3866",
+      "sha256": "00fb098511416b2fb1e88cbd4f5c9b08c47ae73d9ff5d8a4d68b42c13aa533b7"
+    },
+    {
+      "family": "GR",
+      "order": "Lepidoptera",
+      "file": "GR_Lepidoptera.tsv",
+      "source_url": "https://rest.uniprot.org/uniprotkb/search?query=taxonomy_id%3A7088+AND+%28protein_name%3A%22gustatory+receptor%22+OR+protein_name%3A%22taste+receptor%22%29+AND+length%3A%5B100+TO+700%5D&format=tsv&size=500&fields=accession%2Cprotein_name%2Corganism_name%2Corganism_id%2Clength%2Csequence%2Creviewed",
+      "downloaded": 500,
+      "uniprot_release": "2026_03",
+      "total_matches": "1390",
+      "sha256": "97e0cb52f2c1c4ad438345119fe29c0112cce8f30606210477cd98fb5d398ec9"
+    },
+    {
+      "family": "GR",
+      "order": "Coleoptera",
+      "file": "GR_Coleoptera.tsv",
+      "source_url": "https://rest.uniprot.org/uniprotkb/search?query=taxonomy_id%3A7041+AND+%28protein_name%3A%22gustatory+receptor%22+OR+protein_name%3A%22taste+receptor%22%29+AND+length%3A%5B100+TO+700%5D&format=tsv&size=500&fields=accession%2Cprotein_name%2Corganism_name%2Corganism_id%2Clength%2Csequence%2Creviewed",
+      "downloaded": 500,
+      "uniprot_release": "2026_03",
+      "total_matches": "1573",
+      "sha256": "07b0f90b27a9865658003af8551289f9979bcf0863970746fb789b7e5ce6e095"
+    },
+    {
+      "family": "GR",
+      "order": "Hymenoptera",
+      "file": "GR_Hymenoptera.tsv",
+      "source_url": "https://rest.uniprot.org/uniprotkb/search?query=taxonomy_id%3A7399+AND+%28protein_name%3A%22gustatory+receptor%22+OR+protein_name%3A%22taste+receptor%22%29+AND+length%3A%5B100+TO+700%5D&format=tsv&size=500&fields=accession%2Cprotein_name%2Corganism_name%2Corganism_id%2Clength%2Csequence%2Creviewed",
+      "downloaded": 500,
+      "uniprot_release": "2026_03",
+      "total_matches": "1811",
+      "sha256": "f7fc3b5c95797df8f19ccb491136d1e2b71e99e4ede818f490da12cae56d545f"
+    },
+    {
+      "family": "GR",
+      "order": "Hemiptera",
+      "file": "GR_Hemiptera.tsv",
+      "source_url": "https://rest.uniprot.org/uniprotkb/search?query=taxonomy_id%3A7524+AND+%28protein_name%3A%22gustatory+receptor%22+OR+protein_name%3A%22taste+receptor%22%29+AND+length%3A%5B100+TO+700%5D&format=tsv&size=500&fields=accession%2Cprotein_name%2Corganism_name%2Corganism_id%2Clength%2Csequence%2Creviewed",
+      "downloaded": 500,
+      "uniprot_release": "2026_03",
+      "total_matches": "873",
+      "sha256": "11350427d902dcc47d7a8ede5d8e18254f78c258538fbc688aa231f40a444f16"
+    },
+    {
+      "family": "GR",
+      "order": "Orthoptera",
+      "file": "GR_Orthoptera.tsv",
+      "source_url": "https://rest.uniprot.org/uniprotkb/search?query=taxonomy_id%3A6993+AND+%28protein_name%3A%22gustatory+receptor%22+OR+protein_name%3A%22taste+receptor%22%29+AND+length%3A%5B100+TO+700%5D&format=tsv&size=500&fields=accession%2Cprotein_name%2Corganism_name%2Corganism_id%2Clength%2Csequence%2Creviewed",
+      "downloaded": 3,
+      "uniprot_release": "2026_03",
+      "total_matches": "3",
+      "sha256": "b49cb14f79567f66e1ad18077c3cdcba6f02070ebe3d52e5835b5cad7b5abfc3"
+    },
+    {
+      "family": "GR",
+      "order": "Blattodea",
+      "file": "GR_Blattodea.tsv",
+      "source_url": "https://rest.uniprot.org/uniprotkb/search?query=taxonomy_id%3A85823+AND+%28protein_name%3A%22gustatory+receptor%22+OR+protein_name%3A%22taste+receptor%22%29+AND+length%3A%5B100+TO+700%5D&format=tsv&size=500&fields=accession%2Cprotein_name%2Corganism_name%2Corganism_id%2Clength%2Csequence%2Creviewed",
+      "downloaded": 437,
+      "uniprot_release": "2026_03",
+      "total_matches": "437",
+      "sha256": "fbbbcfd5e743eba25fd92d2a6ba21bca93a85d92463a216c1510b60f318f758f"
+    },
+    {
+      "family": "GR",
+      "order": "Odonata",
+      "file": "GR_Odonata.tsv",
+      "source_url": "https://rest.uniprot.org/uniprotkb/search?query=taxonomy_id%3A6961+AND+%28protein_name%3A%22gustatory+receptor%22+OR+protein_name%3A%22taste+receptor%22%29+AND+length%3A%5B100+TO+700%5D&format=tsv&size=500&fields=accession%2Cprotein_name%2Corganism_name%2Corganism_id%2Clength%2Csequence%2Creviewed",
+      "downloaded": 30,
+      "uniprot_release": "2026_03",
+      "total_matches": "30",
+      "sha256": "c00ffc3f5508c6b6c2dab0ef25d6a002a64f7faa73b66cda5ef2360d8270f67d"
+    }
+  ],
+  "panel_scope": "Curated OR search collection and UniProtKB GR competition panel. The release uses the full OR collection by default.",
+  "uniprot_gr_selection": {
+    "domain_evalue_max": 0.001,
+    "profile_coverage_min": 0.25,
+    "per_taxon_cap": 96,
+    "per_order_cap": 250
+  },
+  "or_sources": {
+    "file": "OR_sources.tsv",
+    "rows": 3309,
+    "sha256": "c30511ca203f9dd468086aeb154f53c4f20b21194e21ef640696d0d655e01408",
+    "collection": "OR reference database v1.0.0 (2026-10-28)",
+    "source_species": 46,
+    "source_orders": 14,
+    "pools": {
+      "primary": 2356,
+      "Orco": 38,
+      "partial_rescue": 915
+    },
+    "sequence_and_template_ids": "Verified against the frozen full study OR panel",
+    "redistribution": "Included by the maintainers with redistribution permission. Source datasets retain their own terms."
+  }
+}

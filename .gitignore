@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+*.log
+*.partial
+.DS_Store
+Thumbs.db
+.env
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+# Analysis outputs and genomes do not belong in the software repository.
+results/
+runs/
+work/
+test_tmp/
+*.fai
+*.mmi
+*.dmnd
+*.sqlite
+*.sqlite-*
+*.tar.gz
+*.zip
+!src/orsearcher/data/defaults/**
+# Keep private data and default analysis outputs outside release artifacts.
+private_references/
+orsearcher_*/
+.reference_build/
+.reference_test_*/
